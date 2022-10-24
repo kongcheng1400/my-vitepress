@@ -1,4 +1,3 @@
-# my vite test
+# Welcome to the reallife.
 
-
-Vite test
+[撸空投](./airdrops/index.md)
