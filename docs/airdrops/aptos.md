@@ -6,14 +6,9 @@
 
 ### Projects
 
-|Name	|Project|address |	status	|action	|Investors|
-| ----- |:----- | :----  |  -----   | ----: |----:    |
-|mover	|bridge	|mov3r.xyz	|waitinglist|		
-|		|-------|https://www.aptosnames.com/||可以跑|	
-借贷	https://mobius.market/app 	可以跑		
-	借贷	https://www.vial.fi/app			
-		https://liquidswap.com/#/	可以跑	swap 建池子	
-	借贷	https://app.aptin.io	关注	测试网	
-		https://app.omnibtc.finance/swap	关注		
-zaptos	defi				
-	nft	https://bluemove.net/connect-wallet	可以跑	
+|Name	                                |Project| comments |	status	|action	|Investors|
+| -----                                 |:----- | :----    |  -----     | ----: |----:    |
+|[pontem](https://liquidswap.com/#/)     | AMM	| 	       |主网	     | 高优先 | strong |
+｜[aptin](https://app.aptin.io)         |借贷	 |	        |测试网	       | 优先 |         |
+|[mover](mov3r.xyz)	                    |bridge	|	       |waitinglist|		
+|[mobius](https://mobius.market/app)    | 借贷	|           |	可以跑	| 一般|	

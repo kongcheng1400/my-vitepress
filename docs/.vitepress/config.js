@@ -1,4 +1,6 @@
 export default {
-    base: '/my-vitepress/'
+    base: '/my-vitepress/',
+    title:'Mazige Blog',
+    description: 'Remember this is real life.'
   }
   
