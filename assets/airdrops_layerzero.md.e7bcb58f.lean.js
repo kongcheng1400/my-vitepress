@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a,a as r}from"./app.0ea2f00a.js";const y=JSON.parse('{"title":"layerzero","description":"","frontmatter":{},"headers":[],"relativePath":"airdrops/layerzero.md"}'),s={name:"airdrops/layerzero.md"},o=r("",4),d=[o];function n(l,h,i,p,c,_){return a(),e("div",null,d)}const g=t(s,[["render",n]]);export{y as __pageData,g as default};
