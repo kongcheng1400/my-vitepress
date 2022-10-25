@@ -11,3 +11,5 @@
 
 - :tada::tada:[撸空投](./airdrops/index.md)
 - :tada::tada:[段子](./duanzi/index.md)
+- :tada::tada:[Programming](./programming/index.md)
+- :tada::tada:[life](./life/index.md)

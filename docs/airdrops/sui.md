@@ -8,6 +8,7 @@
 4. 点app进去go[beefy](https://gotbeef.app/):可以创建一个bet 游戏。去迪斯科找地址.
 5. 创建和领poap  suia (https://suia.io/)
 6. suinames: [suinames](https://sui-names.com/)
+7. [bluemove](https://sui.bluemove.net/) 去买nft.
 
 ## projects
 
