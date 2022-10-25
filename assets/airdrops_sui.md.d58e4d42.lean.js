@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a,a as r}from"./app.0ea2f00a.js";const f=JSON.parse('{"title":"sui","description":"","frontmatter":{},"headers":[],"relativePath":"airdrops/sui.md"}'),s={name:"airdrops/sui.md"},i=r("",3),d=[i];function n(h,o,l,c,_,p){return a(),e("div",null,d)}const g=t(s,[["render",n]]);export{f as __pageData,g as default};
