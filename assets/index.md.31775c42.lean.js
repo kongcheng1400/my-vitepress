@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a as i}from"./app.0fd7a313.js";const h=JSON.parse('{"title":"Welcome to the reallife.","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}'),l={name:"index.md"},o=i("",4),r=[o];function c(s,n,_,d,p,m){return t(),a("div",null,r)}const u=e(l,[["render",c]]);export{h as __pageData,u as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as p,o as i,a}from"./app.0fd7a313.js";const Q=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"airdrops/database.md"}'),r={name:"airdrops/database.md"},t=a("",6),o=[t];function f(n,s,m,g,d,c){return i(),p("div",null,o)}const C=e(r,[["render",f]]);export{Q as __pageData,C as default};
