@@ -1,16 +1,10 @@
 # Table of contents
 
 ## public chains
+- aptos
+- sui
 
-[Home](/)
-
-[aptos](aptos.md)
-
-[layerzero](layerzero.md)
-
-[sui](sui.md)
-
-# 大毛总结
+## 大毛总结
 |Project| comments                                          | status	|action	|
 |:----- | :-------------------------------------------------|  -----    | ----: |
 |Stark  | ZkStark技术，抗量子, 需要高性能硬件<br>不兼容EVM     | 主网已快照 | 看生态 |

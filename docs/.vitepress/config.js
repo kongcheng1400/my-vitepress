@@ -7,6 +7,17 @@ export default {
       siteTitle: false,
       nav: [
         {text: 'Home', link: '/'}
+      ],
+      sidebar: [
+        {
+          text: 'Airdrops',
+          collapsible: true,
+          items: [
+            {text: 'Introduction', link: '/airdrops/'},
+            {text: 'Data', link: '/airdrops/database.md'},
+            {text: 'Public Chains', link: '/airdrops/public-chains.md'},
+          ]
+        }
       ]
     }
   }
