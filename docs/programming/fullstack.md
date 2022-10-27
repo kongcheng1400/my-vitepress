@@ -237,18 +237,15 @@ Vite express
 
 
 ## Git
-Git
+```
 Git remote -v
 Git remote show origin
 git log --oneline --decorate:
-Github
-配置账户. 2. 配置ssh连接. 3. 初始化本地. 4. Github上创建远程仓库 5. 设置远程仓库.
 ➜  ~ git config --global user.name
 kongcheng1400
 ➜  ~ git config --global user.email
 kongcheng1400@icloud.com
 ls -al ~/.ssh : id_rsa, id_rsa.pub
-
 ssh -T git@github.com
 //初始化本地仓库.
 git init -b main
@@ -261,23 +258,32 @@ git push -u origin master //推送到远程的master分支。
 git push origin --delete main //删除远程分支.
 git pull origin master --allow-unrelated-histories
 git push -u origin master
-
+```
 
 ## HTML/CSS
-选择符: 空格，包含选择符; +, 相邻选择符.
-根据状态确定样式: a:hover
-属性和值都是区分大小写.
-速记属性: font, background,padding, border, margin:允许在一行中设置多个属性值:padding: 10px 15px 15px 5px;(clock wise from the top)
 工作过程:
 html文件=>DOM=>资源(图片，视频，脚本，样式)=>渲染树.
-规则集, 每个声明用分号隔开.
-选择器：元素选择器, ID选择器(.#my-id); 类选择器: .my-class; 属性选择器:img[src]
+
+
+### selectors
+元素选择器, ID选择器(.#my-id); 类选择器: .my-class; 属性选择器:`[type = "input"]`
 Comma:选择器列表.
 : 伪类选择器,伪元素: a:hover,  p::first-line, 
-空格：后代组合器.
+- 空格：后代组合器.
+- `A > B` 直接子代组合
+- `A ~ B` 一般兄弟
+- `A + B` 紧邻兄弟
 
-BOX:
+### BOX:
 Block box, inline box.
+
+margin, border, padding, content(width, height)
+
+### layout
+使用display的值指定.
+- flexbox
+- grid
+- flow
 
 ## Nodejs
 NPM:
