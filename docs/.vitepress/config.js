@@ -26,7 +26,8 @@ export default {
         items: [
           { text: '篇章', link: '/life/' },
           { text: '随便写写', link: '/life/smalltalk.md' },
-          { text: 'books', link: '/life/books.md' }
+          { text: 'books', link: '/life/books.md' },
+          { text: '时常念', link: '/life/时常念.md' }
         ]
       },
       {
