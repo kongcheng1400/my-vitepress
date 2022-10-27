@@ -38,6 +38,15 @@ export default {
           { text: 'AHHHHHHH LMAO', link: '/duanzi/' }
         ]
       },
+      {
+        text: 'programming',
+        collapsible: true,
+        collapsed: true,
+        items: [
+          {text: 'Summary', link: '/programming/'},
+          {text: 'languages-fullstack', link: '/programming/fullstack.md'}
+        ]
+      }
     ]
   }
 }
