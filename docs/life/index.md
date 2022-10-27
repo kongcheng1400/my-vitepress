@@ -35,7 +35,7 @@ An investment operation is one which, upon thorough analysis promises safety of 
 ## action
 - 跑步，跳绳，引体向上，每天。
 - BTC, ETH, AAVE.
-- 阅读与历史.
+- 阅读与历史, 叙事自由.
 - coding学习与教育. js,ts, github, golang, blockchain.
 - 英语
 - 每周清洗厨房
