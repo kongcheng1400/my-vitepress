@@ -3,7 +3,7 @@
 ## read list
 - 费曼学习法
 - Jim Keller
-- [高效能人士的7个习惯](higheff.md)
+- 高效能人士的7个习惯
 
 ## writer list
 - 查理芒格
@@ -39,7 +39,7 @@ An investment operation is one which, upon thorough analysis promises safety of 
 - coding学习与教育. js,ts, github, golang, blockchain.
 - 英语
 - 每周清洗厨房
-
+- 少抽烟，戒烟
 ## avoid ruin
 ::: warning
 如果我知道我会死在哪儿，我就不会去那儿。
