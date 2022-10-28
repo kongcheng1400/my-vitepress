@@ -3,6 +3,8 @@
 ## public chains
 - aptos
 - sui
+- scroll
+- sei
 
 ## 大毛总结
 |Project| comments                                          | status	|action	|
