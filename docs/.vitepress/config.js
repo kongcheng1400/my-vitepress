@@ -3,7 +3,7 @@ export default {
   title: 'Mazige Blog',
   description: 'Remember this is real life.',
   themeConfig: {
-    logo: '/pill.gif',
+    logo: '/zhongfabai.png',
     siteTitle: false,
     nav: [
       { text: 'Home', link: '/' }
