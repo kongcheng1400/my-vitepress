@@ -44,9 +44,18 @@ export default {
         collapsed: true,
         items: [
           {text: 'Summary', link: '/programming/'},
-          {text: 'languages-fullstack', link: '/programming/fullstack.md'}
+          {text: 'languages-fullstack', link: '/programming/fullstack.md'},
+          {text: 'golden example',link: '/programming/goldenexample.md'}
         ]
-      }
+      },
+      {
+        text: 'investments',
+        collapsible: true,
+        collapsed: true,
+        items: [
+          {text: 'Summary', link: '/investments/'}
+        ]
+      },
     ]
   }
 }

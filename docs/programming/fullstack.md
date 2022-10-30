@@ -1,10 +1,12 @@
 
 # programming 汇总
+
+## 汇总
 ::: info
 这部分应该是web3 full stack
 :::
 
-## Types:
+## #Types:
 JS:  7 types: number, undefined, boolean, string, symbol, null, Object
 
 Go: int, byte, boolean, string, float
@@ -38,25 +40,7 @@ Assert和require可以用来检查条件，throw一个一场。
 ```
 if (!condition) revert CustomError(); 与require 自定义错误.
 ```
-### 函数修饰符: 
-State可见行: public, internal, private.
-函数类型： 
-```
-function (<parameter types>) {internal|external} [pure|view|payable] [returns (<return types>)]
-```
-缺省情况下为internal；合约内的函数必须明确可见性：
-External/Public函数有两个成员：.address, .selector
-Function Visibility specifiers: public, private, external, internal(相对于contract来讲.)
-modifiers:pure, view, payable, constant, immutable, 
-控制结构： if else, while, do, for, break, continue, return, 
-Internal与external: 合约外部的调用, message call.{value: 10, gas: 10000}, payable, 使用this.f()
-external与public的区别:public可以被合约内调用. 
-Payable: 这个public函数能收ETH,或者这个合约包含构造函数和fallback函数.
-Low-level calls:
-函数调用: 
-SOlidity:命名参数.
-Error handling: Assert, Require, Revert, and Exceptions.
-State-reverting exceptions
+
 
 
 ## Javascript:我的要点
@@ -110,22 +94,100 @@ Js没有函数签名。JS的函数参数实际上是一个类数组。arguments
 
 ### specifiers:
 #### Solidity:函数. 
-可见性visibility:(public, extermal, internal, private), (stateMutability: view/pure/payable/nonpayable), 
 
-修饰符:权限管理/require(必须满足某些条件否则revert), modifier. 两个特殊函数:receive, fallback.
+### 函数修饰符: 
+State可见行: public, internal, private.
+函数类型： 
+```
+function <function name>(<parameter types>) {internal|external|public|private} [pure|view|payable] [returns (<return types>)]
+```
+注意returns, return的区别.
 
-View: read and not change state. Pure:not read nor modify. revert 不是state modification
 
-stateMutability: default nonpayable
+#### 数据位置和变量的作用域: 
+storage, memory, calldata
 
-Default visibility level: internal
+合约内函数外可以不写位置，缺省为状态变量, storage.
+函数内可以不写位置，缺省为memory.
 
-#### Function visibility specifier: 
+state variable, local variable, global variable.
+
+- local variable:函数内声明, 局部变量.
+- state variable: 合约内，函数外.
+- global variable: solidity 预留的关键字. msg.sender, block.number, msg.data.
+
+#### visibility
+缺省情况下为internal；合约内的函数必须明确可见性：
+
+External/Public函数有两个成员：.address, .selector
+
+Function Visibility specifiers: public, private, external, internal(相对于contract来讲.), default: internal
+
 external(contract interface, transactions, can’t be called internally-f(). this.f()可以, only message calls), public(can callinternally or message calls), internal(可以使用内部参数:例如mapping, storage引用), private
 
-State variable:缺省storage(存储在区块链上.)
+Internal与external: 合约外部的调用, message call.{value: 10, gas: 10000}, payable, 使用this.f()
+
+external与public的区别:public可以被合约内调用. 
+
+(stateMutability: view/pure/payable/nonpayable), stateMutability: default nonpayable
+
+#### modifier/构造函数
+修饰符:权限管理/require(必须满足某些条件否则revert), modifier. 两个特殊函数:receive, fallback.
+- 运行函数前的检查，例如地址，变量，余额等。
 
 
+
+
+
+Payable: 这个public函数能收ETH,或者这个合约包含构造函数和fallback函数.
+
+### reference types
+- reference types vs value types: 引用类型的值可以通过不同的名字改变。值类型则每次得到单独的一份copy.
+- 包含array, structs, mappings. 使用引用类型必须表明存储区域. memory(函数lifetime), storage(contract lifetime), calldata
+- 赋值或者类型转换改变数据位置总会导致copy操作.
+
+#### 数组
+固定长度和可变长度.
+
+注意与其他语言的区别: uint[][5]:含有5个可变长度数组的数组。
+bool[2][]:包含paris的动态数组.
+```
+//固定长度:
+uint[8] array1;
+//可变长度:
+unit[] array4;
+```
+
+#### 创建数组
+allocating memory Arrays:
+new
+```
+unit[] memory array8 = new uint[](5);
+bytes memory array9 = new bytes(9);
+```
+
+字面常数:
+`[1,2,3]`: solidity中如果一个元素没有指明type的时候,默认为最小单位，所以.`[uint(1),2, 3]`
+
+#### bytes, string
+bytes: 任意长度raw byte数据, string: 任意长度utf-8 data.
+bytes, string不是值类型，是数组/reference type.
+
+##### 数组成员
+- length: memory数据的长度在创建后市固定的.
+- push(), pop(): 动态数组和bytes有push(), pop()  
+
+#### event
+`event Transfer(address indexed from, address indexed to,uint256 value)`
+indexed关键字.
+
+
+### struct 
+
+#### 函数调用: 
+
+Error handling: Assert, Require, Revert, and Exceptions.
+State-reverting exceptions
 
 #### Function modifiers:
 Declarative way to change the behaviour: eg: 在执行函数前检查某条件.
@@ -144,27 +206,40 @@ fallback() external [payable] {} or fallback(bytes calldata input) external [pay
 
 #### State variable:
 State visibility: public, internal, private (this.s调用getter,而s是直接访问storage)
+
 Constant and immutable state variables: 编译器不保留storage slot. 直接用值代替.
+
 Chiper than normal statevariables. 保留为32bytes. 只支持值类型和strings.
 
-Library:
+State variable:缺省storage(存储在区块链上.)
+
+
+#### Library:
 只部署一次，代码可以使用ELEGATECALL复用。
 DELEGATECALL:code is executed in the calling contract
 
 ### 继承及OOP:
-JS:
-实例，原型，类成员.
-在类块中定义的所有内容都会定义在类的原型上。方法定义在类构造函数.
-静态类方法, 非常适合做工厂模式.
-继承: extends. ES6类为继承内置引用类型提供了顺畅的机制。
 Solidity:
 Is, 使用virtual 来override.
+
+### 接口 EIP165
+规则:
+1. 不能包含状态变量
+2. 不能包含构造函数
+3. 不能继承除接口外其他合约
+4. 所有函数必须是external且不能有函数体
+5. 继承接口的合约必须实现接口定义的所有功能.
+接口是智能合约的骨架，定义了合约的功能以及如何处罚它们。
+- 接口提供了bytes4选择器以及基于它们的函数签名
+- 接口ID.
+
+ERC721 接口合约定义了3个event，9个function.没有函数体。
+
+
+
+
 ABI interface. Import
 Enums, Events, Try/catch, function selectors, abi.encode/decode, hashing, Yul/assembly.
-
-=>state variable to defaultvalue/inline. Constructor执行之后，部署到区块链。其中的代码包含所有的公共接口和所有的函数调用可以接触到的函数。不包含构造函数。如果没有构造函数，合约则会有个缺省构造函数。
-=>base constructor的参数: 必须指定base constructor的参数: inheritance list or modifer-style, 否则就必须指定为abstract.
-=>abstract contracts, interface():与ABI接口更像，两者转换。
 
 
 
@@ -268,20 +343,25 @@ html文件=>DOM=>资源(图片，视频，脚本，样式)=>渲染树.
 ### selectors
 元素选择器, ID选择器(.#my-id); 类选择器: .my-class; 属性选择器:`[type = "input"]`
 Comma:选择器列表.
-: 伪类选择器,伪元素: a:hover,  p::first-line, 
 - 空格：后代组合器.
 - `A > B` 直接子代组合
 - `A ~ B` 一般兄弟
 - `A + B` 紧邻兄弟
+- 伪类选择器,伪元素: `a:hover`,  `p::first-line`, 
 
 ### BOX:
-Block box, inline box.
+- html的基础是元素，css的基础是box.
+- page flow,Block box, inline box. 
+- 控制外部显示类型:display:block, inline,
+- 控制其内部显示类型:display: flex/grid
+- 盒子: content box(width,height), padding box(padding),boarder box(border), Marginbox(margin)
 
 margin, border, padding, content(width, height)
 
-### layout
-使用display的值指定.
-- flexbox
+### layout-page flow
+- normal flow: 
+- 使用display的值指定.block, inline, 
+- flexbox: display:flex, 在父元素上设置.创建横向或者纵向的一维页面布局. 然后在子元素上设置flex属性.
 - grid
 - flow
 

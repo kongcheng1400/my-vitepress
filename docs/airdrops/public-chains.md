@@ -57,6 +57,3 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 |[redstone](https://redstone.finance/)             |       |          |            |       |         |
 
 
-## sei network
-
-[address](https://www.seinetwork.io/)
