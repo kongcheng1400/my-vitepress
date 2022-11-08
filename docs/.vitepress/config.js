@@ -44,8 +44,7 @@ export default {
         collapsed: true,
         items: [
           {text: 'Summary', link: '/programming/'},
-          {text: 'languages-fullstack', link: '/programming/fullstack.md'},
-          {text: 'golden example',link: '/programming/goldenexample.md'}
+          {text: 'languages-fullstack', link: '/programming/fullstack.md'}
         ]
       },
       {
