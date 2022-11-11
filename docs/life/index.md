@@ -1,15 +1,5 @@
 # my personal list
 
-## read list
-- 费曼学习法
-- Jim Keller
-- 高效能人士的7个习惯
-
-## writer list
-- 查理芒格
-- naval Ravikant
-- 霍华德马克思
-- 王川
 
 ## 收益来自价格还是分红
 - 尽量看假设价格不涨，以净资产买入或者低于净资产价格,
