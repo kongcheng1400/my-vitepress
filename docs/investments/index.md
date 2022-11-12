@@ -1,5 +1,10 @@
 # the core paradgim
 
+
+> 投资操作是以深入分析为基础，确保本金的安全，并获得适当的回报--格雷厄姆
+An investment operation is one which, upon thorough analysis promises safety of principal and an adequate return. Operations not meeting these requirements are speculative.”
+
+
 ## software eats everything.
 
 ## 涌现
@@ -10,6 +15,8 @@
 
 facebook to meta, microsoft的试错。
 
+跨过鸿沟之后，网络效应及头部迅速加强，再也没有flipper. uni, opensea, ubay, jingdong, ali, wechat, eth. 不要再寻找GEM. ETHkiller不停的崩塌(EOS, SOlana)
+
 ## 垄断/权力
 
 ## ultra-sound money
@@ -19,3 +26,9 @@ facebook to meta, microsoft的试错。
 - ETH的3个稀缺性支柱: Defi, pos staking, Burn Rate.
 - 总价值= 货币溢价。
 - MV=PQ
+
+## 收益来自价格还是分红
+- 尽量看假设价格不涨，以净资产买入或者低于净资产价格,
+- 分红再投入.
+- 前提是开放社会，市场经济，公司长期向上。
+- 本金安全。冗余冗余。不要追求资本效率(FTX的崩塌),高息揽储是危险的前兆.
