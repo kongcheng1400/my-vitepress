@@ -4,6 +4,7 @@
 > 投资操作是以深入分析为基础，确保本金的安全，并获得适当的回报--格雷厄姆
 An investment operation is one which, upon thorough analysis promises safety of principal and an adequate return. Operations not meeting these requirements are speculative.”
 
+> 保住本金，不要归零。不要质押借贷，不要追求资本效率最大化.
 
 ## software eats everything.
 
