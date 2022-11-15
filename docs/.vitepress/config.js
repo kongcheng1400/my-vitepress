@@ -27,7 +27,8 @@ export default {
           { text: '篇章', link: '/life/' },
           { text: '随便写写', link: '/life/smalltalk.md' },
           { text: 'books', link: '/life/books.md' },
-          { text: '时常念', link: '/life/时常念.md' }
+          { text: '时常念', link: '/life/时常念.md' },
+          {text: 'NovalRavakant', collapsible: true, collapsed: true, items:[{ text: '富有', link: '/life/NovalRavakant/富有.md' }]}
         ]
       },
       {
