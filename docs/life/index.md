@@ -1,12 +1,6 @@
 # 哲学
 
 
-## 收益来自价格还是分红
-- 尽量看假设价格不涨，以净资产买入或者低于净资产价格,
-- 分红再投入.
-- 前提是开放社会，市场经济，公司长期向上。
-- 本金安全。冗余冗余。不要追求资本效率(FTX的崩塌),高息揽储是危险的前兆.
-
 ## paradigim
 
 ::: warning
@@ -14,8 +8,19 @@
 An investment operation is one which, upon thorough analysis promises safety of principal and an adequate return. Operations not meeting these requirements are speculative.”
 :::
 
-verify/证实/证伪
+
+::: tip
+投资: 追求价值和竞争优势, 即使价格不涨，盈利增长，分红都能cover.
+投资的成功是变成一个更好的人的自然结果
+
+投机: 追求价格的进一步高估.
+:::
+
+
+
 ::: warning
+**verify/证实/证伪**
+
 【卡尔波普尔：
 1.这个世界，只有否定的理论是严格成立的。
 2.归纳法既不能给人们以未来的必要性知识，也不能给人们以未来的或然性知识。】
@@ -42,15 +47,21 @@ verify/证实/证伪
 - 不要熬夜猝死
 
 ### don't trust, verify.
-- 神秘主义话术: cz清仓长远来说对FTT是巨大的利好, 懂的都懂.
+- 神秘主义话术: cz清仓长远来说对FTT是巨大的利好, 懂的都懂. 币安的亲儿子.
 - LUNA, 3AC, STEPN, FTX(GAPP审计，出入DC, 哈佛天才), 大量的机构客户将资金放在FTX也不能证明其安全。
 - 每个人不同的分析角度(广度比深度重要)
 - 旁氏: 自己创建的币，用来做抵押(TRX's USDD, FTX's FTT),产生另外一种.
-- 证实: FTX是安全的，大量的股东都是耳熟能详(红衫，Tamesk), 大量的专业机构资金托管在FTX(事后报道Multicoin,及其他对冲基金), US GAPP审计, 提币无上限，流动性充足， 合规,SBF随时进出DC. 
+- 证实: FTX是安全的，大量的股东都是耳熟能详(红衫，Tamesk), 大量的专业机构资金托管在FTX(事后报道Multicoin,及其他对冲基金), US GAPP审计, 提币无上限，流动性充足， 合规,SBF随时进出DC. SBF被顶级媒体描述为一个利他主义者，赚钱是为了捐给他人，素食主义者，穿着平常的衣服，开着二手本田。
 - 证伪: CZ清空FTT(避免另一个Luna.)， 总有人能有你不同的视角.
 - verify/Trust: 
   - sign
   - Merckle Tree proof of reserve.
+
+
+## 摆脱别人的叙事
+- 叙事自由,建立自己的paradigim
+- 只要足够久，历史会给你各种叙事。(中国古话最为害人.)
+
 
 
 ## Method
@@ -75,6 +86,7 @@ verify/证实/证伪
 - 英语, youtube节目.
 - 每周清洗厨房
 - 少抽烟，戒烟
+- 写作/coding. 将自己的一部分转化成 硅基生命.
 ## avoid ruin
 ::: warning
 如果我知道我会死在哪儿，我就不会去那儿。

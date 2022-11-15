@@ -6,6 +6,23 @@ An investment operation is one which, upon thorough analysis promises safety of 
 
 > 保住本金，不要归零。不要质押借贷，不要追求资本效率最大化.
 
+> 竞争优势，护城河, 安全边际。 注意这两个就好了
+
+## 护城河
+- 高昂的培训及转换成本: 医疗器械及医药, oracle，数据库软件, saleforce
+- 平台效应: 公链及生态. iphone, etherum(uni, opensea, )
+- 网络效应:节点及大量的交易双方, OPENSEA, 西联汇款, 顺丰快递, binance(交易深度即使竞争对手都在其对冲)
+- 品牌及网络: 百威啤酒，可口可乐
+- 地方垄断: 水泥，沙子，
+- 开发及创新人员
+- 去中心化及安全性
+
+## 进行阶段
+- 跨越鸿沟(defi, NFT 在etherum),(GAMEFI在BSC), 
+- 追求flipper是很难的，solana刚倒下。
+- 不要逆风翻盘：手腕，bp, luna, ftt 不要抄底，坏的更坏，好的更好.
+
+
 ## software eats everything.
 
 ## 涌现
