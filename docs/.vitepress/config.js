@@ -53,7 +53,8 @@ export default {
         collapsible: true,
         collapsed: true,
         items: [
-          {text: 'Summary', link: '/investments/'}
+          {text: 'Summary', link: '/investments/'},
+          {text: '投资记录', link: '/investments/diary.md'}
         ]
       },
     ]
