@@ -62,6 +62,11 @@ EOS
 
 再性感的美女已经感动不了我了，因为我在大润发杀了五年的鱼，我的心已经和我的刀一样冷。
 
+2022年工作总结:
+1. 成为3AC Tier1 LP并与zhusu合影.
+2. 成为luna 中文区大使并且获得luna代币的杰出大使奖
+3. 成为FTX power user并且抽中Royal Bahamas FTX总部3日游.
+
 ![币圈女孩儿](coingirl.png)
 ![myjob](myjob.png)
 ![trader](trader.png)

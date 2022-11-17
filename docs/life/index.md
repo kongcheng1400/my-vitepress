@@ -1,5 +1,5 @@
 # 哲学
-
+**core words**:脆弱与反脆弱， trust and verify, 证实与证伪， 神秘主义
 
 ## paradigim
 
