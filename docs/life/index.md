@@ -47,7 +47,7 @@ An investment operation is one which, upon thorough analysis promises safety of 
 - 不要熬夜猝死
 
 ### don't trust, verify.
-- 神秘主义话术: cz清仓长远来说对FTT是巨大的利好, 懂的都懂. 币安的亲儿子.
+- 神秘主义话术: cz清仓长远来说对FTT是巨大的利好, 懂的都懂. 币安的亲儿子. 随时进出DC. 中央部委有人.
 - LUNA, 3AC, STEPN, FTX(GAPP审计，出入DC, 哈佛天才), 大量的机构客户将资金放在FTX也不能证明其安全。
 - 每个人不同的分析角度(广度比深度重要)
 - 旁氏: 自己创建的币，用来做抵押(TRX's USDD, FTX's FTT),产生另外一种.
