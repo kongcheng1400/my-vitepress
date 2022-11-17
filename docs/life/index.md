@@ -1,16 +1,18 @@
 # 哲学
-**core words**:脆弱与反脆弱， trust and verify, 证实与证伪， 神秘主义
+**core words:脆弱与反脆弱， trust and verify, 证实与证伪， 神秘主义, 投资**
 
 ## paradigim
 
 ::: warning
 投资操作是以深入分析为基础，确保本金的安全，并获得适当的回报--格雷厄姆
+
 An investment operation is one which, upon thorough analysis promises safety of principal and an adequate return. Operations not meeting these requirements are speculative.”
 :::
 
 
 ::: tip
-投资: 追求价值和竞争优势, 即使价格不涨，盈利增长，分红都能cover.
+投资: 追求价值和竞争优势和反脆弱, 即使价格不涨，盈利增长，分红都能cover.
+
 投资的成功是变成一个更好的人的自然结果
 
 投机: 追求价格的进一步高估.
