@@ -3,14 +3,14 @@
 
 ## paradigim
 
-::: warning
+::: warning 投资-格雷厄姆
 投资操作是以深入分析为基础，确保本金的安全，并获得适当的回报--格雷厄姆
 
 An investment operation is one which, upon thorough analysis promises safety of principal and an adequate return. Operations not meeting these requirements are speculative.”
 :::
 
 
-::: tip
+::: tip 投资与投资
 投资: 追求价值和竞争优势和反脆弱, 即使价格不涨，盈利增长，分红都能cover.
 
 投资的成功是变成一个更好的人的自然结果
@@ -20,7 +20,7 @@ An investment operation is one which, upon thorough analysis promises safety of 
 
 
 
-::: warning
+::: warning don't trust, veirfy!
 **verify/证实/证伪**
 
 【卡尔波普尔：
