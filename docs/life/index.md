@@ -61,8 +61,15 @@ An investment operation is one which, upon thorough analysis promises safety of 
 
 
 ## 摆脱别人的叙事
+> The interpretation matters very often a lot more as we’ll see than the information that goes in
+> 解读比信息本身更重要
 - 叙事自由,建立自己的paradigim
-- 只要足够久，历史会给你各种叙事。(中国古话最为害人.)
+  - 纵向的看: 古人的视角，百年前的生存环境,历史上发生的事情?
+  - 横向的看： 你的感觉VS其他人的感觉, 是否过于自我中心主义？
+- Will Durant 曾说过：“历史太丰富了，你足以从历史中得到任何结论。”(中国古话最为害人.)
+- 这个盘子能暴富 VS 这个事物终将改变世界」，能让参与其中的人获得收益，是第一信仰的伴随副产品。但「这个事物终将改变世界」，是需要一整套知识体系去确认了一句归纳。Code is Law 在很缓慢的发展着
+- 勤劳，奉献，舍身，伟大, 人民 人性可以改造 VS 人性(不完美)接受人性
+- 英雄 VS 没有英雄
 
 
 
