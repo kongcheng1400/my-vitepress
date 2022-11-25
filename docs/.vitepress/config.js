@@ -3,22 +3,12 @@ export default {
   title: 'Mazige Blog',
   description: 'Remember this is real life.',
   themeConfig: {
-    logo: '/zhongfabai.png',
+    logo: '/frog.jpg',
     siteTitle: false,
     nav: [
       { text: 'Home', link: '/' }
     ],
     sidebar: [
-      {
-        text: 'Airdrops',
-        collapsible: true,
-        collapsed: true,
-        items: [
-          { text: 'Introduction', link: '/airdrops/' },
-          { text: 'Data', link: '/airdrops/database.md' },
-          { text: 'Public Chains', link: '/airdrops/public-chains.md' },
-        ]
-      },
       {
         text: 'life&philosophy',
         collapsible: true,
@@ -30,6 +20,16 @@ export default {
           { text: '时常念', link: '/life/时常念.md' },
           { text: '反脆弱', link: '/life/反脆弱.md' },
           {text: 'NovalRavakant', collapsible: true, collapsed: true, items:[{ text: '富有', link: '/life/NovalRavakant/富有.md' }]}
+        ]
+      },
+      {
+        text: 'Airdrops',
+        collapsible: true,
+        collapsed: true,
+        items: [
+          { text: 'Introduction', link: '/airdrops/' },
+          { text: 'Data', link: '/airdrops/database.md' },
+          { text: 'Public Chains', link: '/airdrops/public-chains.md' },
         ]
       },
       {
