@@ -3,22 +3,12 @@ export default {
   title: 'Mazige Blog',
   description: 'Remember this is real life.',
   themeConfig: {
-    logo: '/zhongfabai.png',
+    logo: '/frog.jpg',
     siteTitle: false,
     nav: [
       { text: 'Home', link: '/' }
     ],
     sidebar: [
-      {
-        text: 'Airdrops',
-        collapsible: true,
-        collapsed: true,
-        items: [
-          { text: 'Introduction', link: '/airdrops/' },
-          { text: 'Data', link: '/airdrops/database.md' },
-          { text: 'Public Chains', link: '/airdrops/public-chains.md' },
-        ]
-      },
       {
         text: 'life&philosophy',
         collapsible: true,
@@ -33,11 +23,13 @@ export default {
         ]
       },
       {
-        text: '段子',
+        text: 'investments',
         collapsible: true,
         collapsed: true,
         items: [
-          { text: 'AHHHHHHH LMAO', link: '/duanzi/' }
+          {text: 'Summary', link: '/investments/'},
+          {text: '投资记录', link: '/investments/diary.md'},
+          {text: '美丽的陷阱', link: '/investments/beautifulTrap.md'}
         ]
       },
       {
@@ -50,15 +42,25 @@ export default {
         ]
       },
       {
-        text: 'investments',
+        text: 'Airdrops',
         collapsible: true,
         collapsed: true,
         items: [
-          {text: 'Summary', link: '/investments/'},
-          {text: '投资记录', link: '/investments/diary.md'},
-          {text: '美丽的陷阱', link: '/investments/beautifulTrap.md'}
+          { text: 'Introduction', link: '/airdrops/' },
+          { text: 'Data', link: '/airdrops/database.md' },
+          { text: 'Public Chains', link: '/airdrops/public-chains.md' },
         ]
       },
+      {
+        text: '段子',
+        collapsible: true,
+        collapsed: true,
+        items: [
+          { text: 'AHHHHHHH LMAO', link: '/duanzi/' }
+        ]
+      },
+
+
     ]
   }
 }
