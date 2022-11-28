@@ -28,6 +28,7 @@ export default {
         collapsed: true,
         items: [
           {text: 'Summary', link: '/investments/'},
+          {text: '价值投资', link: '/investments/价值投资.md'},
           {text: '投资记录', link: '/investments/diary.md'},
           {text: '美丽的陷阱', link: '/investments/beautifulTrap.md'}
         ]

@@ -22,6 +22,7 @@ An investment operation is one which, upon thorough analysis promises safety of 
 
 ::: warning don't trust, veirfy!
 **verify/证实/证伪**
+Naval: 我不知道这样行不行，然而，我会把不行的排除掉. I don’t believe I have the ability to say what is going to work. Rather,I try to eliminate what’s not going to work.
 
 【卡尔波普尔：
 1.这个世界，只有否定的理论是严格成立的。
@@ -70,7 +71,8 @@ An investment operation is one which, upon thorough analysis promises safety of 
 - 这个盘子能暴富 VS 这个事物终将改变世界」，能让参与其中的人获得收益，是第一信仰的伴随副产品。但「这个事物终将改变世界」，是需要一整套知识体系去确认了一句归纳。Code is Law 在很缓慢的发展着
 - 勤劳，奉献，舍身，伟大, 人民 人性可以改造 VS 人性(不完美)接受人性
 - 英雄 VS 没有英雄
-
+- 一切都是为你好
+    - 一听“都是为你好”这句话就犯PTSD，尤其当着面说，我脑子里唯一的念头只有：这孙子打算坑我，伪善包裹着威胁和欺骗，为达目的做人做事没什么底线，虚伪又下贱.为什么为我好我自己却感受不到，后来想明白了，这句话原本应该是“你是傻逼，已经傻逼到不知道什么好什么不好了，所以我才出于善心替你做个决定(只做决定不实际帮忙)，都是为你好啊”，他们只说了最后的结论，没说前面的想法。
 
 
 ## Method
