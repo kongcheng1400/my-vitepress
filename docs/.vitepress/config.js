@@ -6,7 +6,7 @@ export default {
     logo: '/frog.jpg',
     siteTitle: false,
     nav: [
-      { text: 'Home', link: '/' }
+      { text: 'Home', link: '/life/' }
     ],
     sidebar: [
       {

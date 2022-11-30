@@ -23,3 +23,8 @@
 - 高速并行设计, 名字及技术多牛逼.
 - 算法稳定币
 - 减半就是利好
+- 梭哈 梭哈 梭哈
+
+### FOMO
+- 1 doge 1 dollar
+- people for people.
