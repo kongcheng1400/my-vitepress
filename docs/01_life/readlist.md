@@ -3,6 +3,8 @@
 - 费曼学习法
 - Jim Keller
 - 高效能人士的7个习惯
+- 战略论：间接路线.
+- open AI,chatGPT
 
 ## writer list
 - 查理芒格

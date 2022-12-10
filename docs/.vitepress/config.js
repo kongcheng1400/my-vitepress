@@ -6,20 +6,28 @@ export default {
     logo: '/frog.jpg',
     siteTitle: false,
     nav: [
-      { text: 'Home', link: '/life/' }
+      { text: 'Home', link: '/01_life/' }
     ],
     sidebar: [
       {
-        text: 'life&philosophy',
+        text: '人生哲学',
         collapsible: true,
         collapsed: true,
         items: [
-          { text: '篇章', link: '/life/' },
-          { text: '随便写写', link: '/life/smalltalk.md' },
-          { text: 'books', link: '/life/books.md' },
-          { text: '时常念', link: '/life/时常念.md' },
-          { text: '反脆弱', link: '/life/反脆弱.md' },
-          {text: 'NovalRavakant', collapsible: true, collapsed: true, items:[{ text: '富有', link: '/life/NovalRavakant/富有.md' }]}
+          { text: '篇章', link: '/01_life/' },
+          { text: '随便写写', link: '/01_life/smalltalk.md' },
+          { text: 'books', link: '/01_life/books.md' },
+          { text: '时常念', link: '/01_life/时常念.md' },
+          { text: '反脆弱', link: '/01_life/反脆弱.md' },
+          {text: 'NovalRavakant', collapsible: true, collapsed: true, items:[{ text: '富有', link: '/01_life/NovalRavakant/富有.md' }]}
+        ]
+      },
+      {
+        text: '工作相关',
+        collapsible: true,
+        collapsed: true,
+        items: [
+          { text: 'RoadMap', link: '/02_work/' }
         ]
       },
       {
@@ -27,10 +35,10 @@ export default {
         collapsible: true,
         collapsed: true,
         items: [
-          {text: 'Summary', link: '/investments/'},
-          {text: '价值投资', link: '/investments/价值投资.md'},
-          {text: '投资记录', link: '/investments/diary.md'},
-          {text: '美丽的陷阱', link: '/investments/beautifulTrap.md'}
+          {text: 'Summary', link: '/03_investments/'},
+          {text: '价值投资', link: '/03_investments/价值投资.md'},
+          {text: '投资记录', link: '/03_investments/diary.md'},
+          {text: '美丽的陷阱', link: '/03_investments/beautifulTrap.md'}
         ]
       },
       {
@@ -38,8 +46,16 @@ export default {
         collapsible: true,
         collapsed: true,
         items: [
-          {text: 'Summary', link: '/programming/'},
-          {text: 'languages-fullstack', link: '/programming/fullstack.md'}
+          {text: 'Summary', link: '/04_programming/'},
+          {text: 'languages-fullstack', link: '/04_programming/fullstack.md'}
+        ]
+      },
+      {
+        text: '杠杆',
+        collapsible: true,
+        collapsed: true,
+        items: [
+          {text: 'Summary', link: '/05_leverage/'}
         ]
       },
       {
@@ -47,9 +63,9 @@ export default {
         collapsible: true,
         collapsed: true,
         items: [
-          { text: 'Introduction', link: '/airdrops/' },
-          { text: 'Data', link: '/airdrops/database.md' },
-          { text: 'Public Chains', link: '/airdrops/public-chains.md' },
+          { text: 'Introduction', link: '/99_airdrops/' },
+          { text: 'Data', link: '/99_airdrops/database.md' },
+          { text: 'Public Chains', link: '/99_airdrops/public-chains.md' },
         ]
       },
       {
@@ -57,7 +73,7 @@ export default {
         collapsible: true,
         collapsed: true,
         items: [
-          { text: 'AHHHHHHH LMAO', link: '/duanzi/' }
+          { text: 'AHHHHHHH LMAO', link: '/06_duanzi/' }
         ]
       },
 

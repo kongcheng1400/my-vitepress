@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /airdrops/
+      link: /01_life/
     - theme: alt
       text: View on GitHub
       link: https://github.com/vuejs/vitepress
