@@ -1,4 +1,4 @@
-1. 多实践
+1. 多实践,多写，多看.
 2. 多回头看
 3. 把github中issue找出来，自己尝试fix.
 
@@ -23,3 +23,5 @@ git log | p index.js
 
 ### languages
 - [solidity](https://github.com/kongcheng1400/WTF-Solidity)
+- [C++](https://github.com/kongcheng1400/learn-cpp)
+- [python]()
