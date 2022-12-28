@@ -5,7 +5,6 @@
 - english
 - hardware basis
 ## hardware basis
-- high speed signals
 - Antena basics
 - spectrum analyzer basics(N9020/U2049)
 
@@ -16,7 +15,10 @@
     - standard library 
 
 - C++
+
     - socket/gpib/ instrument control. server / client demo.
+- solidity
+    - 
 - Algo
     - python + C++
 - DSA

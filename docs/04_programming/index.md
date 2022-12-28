@@ -24,4 +24,4 @@ git log | p index.js
 ### languages
 - [solidity](https://github.com/kongcheng1400/WTF-Solidity)
 - [C++](https://github.com/kongcheng1400/learn-cpp)
-- [python]()
+- [python](https://github.com/kongcheng1400/learn-python3/tree/main/cheatsheet)
