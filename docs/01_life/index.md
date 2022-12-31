@@ -1,6 +1,39 @@
 # 哲学
-**core words:脆弱VS反脆弱， trust VS verify, 证实VS证伪， 非预测性VS神秘主义, 叙事陷阱VS, 投资VS投机,**
-**静好 VS fluctuation VS 无常**
+
+**core words:  
+脆弱 VS 反脆弱, 
+trust VS verify, 
+证实 VS 证伪， 
+非预测性 VS 神秘主义 VS 叙事陷阱,  
+投资 VS 投机,
+静好 VS fluctuation VS 无常, 
+能力圈 VS 细节自信 vs 小幅试错, 
+避免错误 VS 正向修正**
+
+## engraving(Naval Ravikant)
+> the most dangerous things are heroin and a monthly salary.
+
+- 维持自由甚于提高生活水准。
+
+### luck
+1. blind luck
+2. luck from hustling
+  - 坚持不懈的努力工作和强烈的意愿.(vlog, writer,)
+3. luck from preparation
+  - 专长使你善于发现运气。青霉素的发明者佛莱明。
+4. luck from unique character.
+  - 独一无二的个性，与众不同的品牌，一种独特的思维模式。
+  - Sam Altman：“极致的人会得到极致的结果。”我认为说得很好。另一句来自斯坦福大学的教授Jeffrey Pfeffer：“你不能做着平均标准的事情，却期待着超额回报。”我也一直很喜欢这句。
+  - Naval: 没错。有一句我喜欢的话是从完全相反的角度表达的：“玩愚蠢的游戏只能得到愚蠢的奖品。”很多人想着提高自己的社交地位，却花不少时间在玩社交游(比如Twitter），那么他们基本上也只能得到愚蠢的社交奖励，当然这个奖励毫无意义
+
+### specific knowledge, accountability and leverage
+- 最有趣的东西通常无法被传授, 然而可以习得任何事。特定知识是那种你真正感兴趣的知识。观察，看看你已经构建了什么，然后在这个基础上完善它.
+- 被好奇心驱动的路上，更有可能获得特定知识。反复梳理，才能找到你真正感兴趣和擅长的东西。
+
+#### 保持你的好奇心
+- 多问几个为什么. 
+- 透过公式看本质.
+
 
 ## paradigim
 
@@ -48,7 +81,7 @@ Naval: 我不知道这样行不行，然而，我会把不行的排除掉. I don
 - 透明的链上合约可以verify.
 
 
-### 用别人的原则并无不好/巴菲特/wangchuan/芒格
+### 用别人的原则并无不好/巴菲特/王川/芒格
 虽然塔勒布说，唯有被否定的事实才确定无疑. 
 在超长线的投资以及人生之中，普通人是无法经历那种从30年代开始的格雷厄姆，巴菲特，霍华德马克思的那些投资经验，一方面参考别人的经验，也要的避免别人的失败。(FTX, 3AC, Luna, 飞船等等, YGG， 恒大地产)
 

@@ -1,3 +1,5 @@
+>  **it takes a moment to learn and a lifetime to master**
+基于工作堆积。
 # working Roadmap
 - wifi standards/dvt
 - antena designs related.
@@ -13,6 +15,7 @@
     - cheat sheet
     - socket proxy server/client full function demo checking.
     - standard library 
+    - numpy
 
 - C++
 
