@@ -13,7 +13,12 @@ trust VS verify,
 ## engraving(Naval Ravikant)
 > the most dangerous things are heroin and a monthly salary.
 
+> The only way to escape the matrix is to unlearn everything you’ve been taught and rebuild your entire belief system based on critical thought and analysis.
+
 - 维持自由甚于提高生活水准。
+- 逃离 Matrix 的唯一方法是忘记你所学的一切，并根据批判性思维和分析，重建你的整个信仰体系。
+- 弱小和无知，不是生存的障碍，傲慢才是。
+
 
 ### luck
 1. blind luck
