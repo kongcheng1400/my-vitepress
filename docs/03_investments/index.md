@@ -2,6 +2,8 @@
 
 **反脆弱, 竞争优势，护城河, 安全边际, 能力圈， 小幅试错**
 
+买股票是买生意，企业的所有权. 延申考虑，无法保证私有制，企业所有权的土壤诞生的企业，则不算作投资。
+
 
 > 投资操作是以深入分析为基础，确保本金的安全，并获得适当的回报--格雷厄姆
 An investment operation is one which, upon thorough analysis promises safety of principal and an adequate return. Operations not meeting these requirements are speculative.”
