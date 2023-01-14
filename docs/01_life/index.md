@@ -9,8 +9,9 @@ trust VS verify,
 静好 VS fluctuation VS 无常, 
 能力圈 VS 细节自信 vs 小幅试错, 
 避免错误 VS 正向修正
-System VS goals.
-**
+System VS goals.**
+
+
 ## 安全性checklist
 不管是投资还是生活，它们蕴含的哲学艺术是一样的。以反脆弱为范式。
 
@@ -25,6 +26,9 @@ System VS goals.
 - 是否是预测性的结果？ 神秘主义话术。
 - 买入在别人强制卖出时。
 - 是否更加自由？自由甚于提高消费水准与自我/自尊.
+
+## special knowledge/kills
+- so what is my special knowledge/skills?
 
 ## engraving(Naval Ravikant)
 > the most dangerous things are heroin and a monthly salary.
@@ -130,6 +134,8 @@ Riddit一个21岁的小伙子的例子:从一万USD到7万USD，再到Celius上�
 
 还有一个教训是，越在牛市顶峰，越FOMO, 大家越看涨，越舍不得卖币套现消费.
 - 如果有需要消费的时候，就放平心态，该花就花，大胆卖币。 按照这个原则，心态更平稳，反而会让长期投资表现更好. 消费不是变成零，只是把资产变成另外一个形态。
+
+学历出身收益生活细节(二手本田，素食主义者，利他主义者, 勇气:sol)证明了SBF是个可靠的投资者，证伪只是需要熊市中FTX的崩塌。
 
 #### 抑制投资中的冲动
 - 一时利好来临，按捺不住的加大投注. 却没想到从更长期的视角来看，只是宏观变化中的一个涟漪。
