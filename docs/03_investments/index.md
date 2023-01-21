@@ -11,7 +11,11 @@ An investment operation is one which, upon thorough analysis promises safety of 
 冗余 VS 欠债. 冗余就是反脆弱.
 > 保住本金，不要归零。不要质押借贷，不要追求资本效率最大化. 冗余不是防御性的，它更像是投资，而不是保险。
 
-
+## 确定选择的门槛
+- 网络效应以及护城河，已经是行业内第一。
+- 这个行业是否跨越鸿沟？使用渡过早期使用者阶段？
+- 非连续性创新突破商业模式.
+- 进入壁垒以及转换门槛。
 
 ## 关注资产
 - 试图在他人买入之前买入，试图在他人卖出之前卖出。这种行为的逻辑并不在乎资产本身.
@@ -23,18 +27,25 @@ An investment operation is one which, upon thorough analysis promises safety of 
 
 
 ## 护城河
-- 高昂的培训及转换成本: 医疗器械及医药, oracle，数据库软件, saleforce
-- 平台效应: 公链及生态. iphone, etherum(uni, opensea, )
+- 高壁垒(半导体工厂， 高技术)
+- 高昂的培训及转换成本: 医疗器械及医药, oracle，数据库软件, saleforce, 顾客或者合作伙伴转向另外一个供应商时。
+- 平台效应(生态及价值链): 公链及生态. iphone, etherum(uni, opensea, )
 - 网络效应:节点及大量的交易双方, OPENSEA, 西联汇款, 顺丰快递, binance(交易深度即使竞争对手都在其对冲)
-- 品牌及网络: 百威啤酒，可口可乐
+- 品牌及分销网络: 百威啤酒，可口可乐
 - 地方垄断: 水泥，沙子，
 - 开发及创新人员
 - 去中心化及安全性
+- 用户的实力。比如说用户是否是老用户，APE的很多持有者是大vc和明星，运动员.
+- 标准化, 可以大规模的应对激增的需求。
+- 规模经济: 产品销售越多/单位成本就越小。(TSMC, APPLE, MS)
+- 非连续性创新(新的商业模式，新的基础设施.)
+- 保持高利润
 
 ## 进行阶段
 - 跨越鸿沟(defi, NFT 在etherum),(GAMEFI在BSC), 
 - 追求flipper是很难的，solana刚倒下。
 - 不要逆风翻盘：手腕，bp, luna, ftt 不要抄底，坏的更坏，好的更好.
+- 标准化的进展: EVM, EIP, ERC, UNIV2, UNIV3, 
 
 
 ## software eats everything.

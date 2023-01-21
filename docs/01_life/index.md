@@ -260,7 +260,7 @@ Riddit一个21岁的小伙子的例子:从一万USD到7万USD，再到Celius上�
   - Merckle Tree proof of reserve.
 
 
-# 摆脱别人的叙事
+# 摆脱别人的叙事/识别PUA话术
 > The interpretation matters very often a lot more as we’ll see than the information that goes in
 
 > 解读比信息本身更重要
@@ -274,6 +274,8 @@ Riddit一个21岁的小伙子的例子:从一万USD到7万USD，再到Celius上�
 - 英雄 VS 没有英雄
 - 落叶归根  VS 落叶生根
 - 正能量是傻逼。
+- 为什么我认为FTX是一颗GEM?
+- 为什么你过年一定要回家？为什么富人爱移民美国？
 
 ## 吃饱饭 听人劝
 - 读历史，是读避坑指南，而不是为了推演未来。
