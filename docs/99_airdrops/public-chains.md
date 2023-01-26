@@ -57,3 +57,8 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 |[redstone](https://redstone.finance/)             |       |          |            |       |         |
 
 
+### steps
+1. scroll.io 点 join the testnet
+2. 点Faucet, 按照提示添加网络，在L1 testnet 领水 0.1 Tsteth。
+3. 点bridge, 将领到的水bridge 0.02到L2 testnet.
+4. 点swap. 将testeth换成usdc.
