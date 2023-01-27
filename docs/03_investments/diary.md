@@ -63,12 +63,19 @@
               ——克里斯蒂娜·拉加德
 
 ## coin20 - never flip.
-- 公链: BTC, ETH, BNB
+- 公链: BTC, ETH, FLOW, AR
 - DEFI: uni, aave, crv, cake
 - oracle: link
 - gamefi platform&metaverse: ape, guild: YGG, sand
 - storage:ar file
 - AI: FET
+### latest decision
+- 20230126: metaverse: 只选择ape, otherdeed
+- 20230126: 公链加入flow.
+### logs
+- 2023-01-26: 去掉BSC. 原因: 文化。无法fork eth的文化。相当多的rug.defi组合性. cosmos/atom中，早期项目几乎损失殆尽
+- 2023-01-26: 加入flow. 原因mainstreet. 
+- 2023-01-26: 去掉file. 原因ar几乎在存储生态胜出(meta, visa, 以及新的原创生态redstone,kyve.)
 ### 后期部署
 - BTC, link(all defi), aave, AR(meta, mirror), uni.
 ### 猩猩游戏
@@ -81,9 +88,12 @@
 - redstone: 下一代预言机(历史价格数据.)
 - kyve network
 - solana数据
-## YGG VS Gala VS sand
+## YGG VS Gala VS sand VS mana VS apecoin
 YGG: 是公会第一。　Gala是类似于游戏平台，它上面有不错的游戏，去中心化的技术。
 - sand有新的商业模式。但是能否普遍，有否被大众接受？它的阶段和YGG差不多。
+- 应该买更多apecoin.
+
+
 
 
 网络效应的比较:

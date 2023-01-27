@@ -41,7 +41,8 @@ export default {
           {text: '价值投资', link: '/03_investments/价值投资.md'},
           {text: '投资记录', link: '/03_investments/diary.md'},
           {text: '美丽的陷阱', link: '/03_investments/beautifulTrap.md'},
-          {text: 'blockchain', link: '/03_investments/blockchain.md'}
+          {text: 'blockchain', link: '/03_investments/blockchain.md'},
+          {text: '市场温度和周期', link: '/03_investments/market.md'}
         ]
       },
       {
