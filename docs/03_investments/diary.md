@@ -78,6 +78,7 @@
 - 2023-01-26: 去掉file. 原因ar几乎在存储生态胜出(meta, visa, 以及新的原创生态redstone,kyve.)
 ### 后期部署
 - BTC, link(all defi), aave, AR(meta, mirror), uni.
+- 20230128+ apt
 ### 猩猩游戏
 - 是否跨越早期使用者鸿沟?
 ~~RNDR, FET~~
@@ -92,6 +93,9 @@
 YGG: 是公会第一。　Gala是类似于游戏平台，它上面有不错的游戏，去中心化的技术。
 - sand有新的商业模式。但是能否普遍，有否被大众接受？它的阶段和YGG差不多。
 - 应该买更多apecoin.
+
+### aptos VS BSC
+- aptos独特的语言反而为aptos创造自己的文化有了基础.
 
 
 

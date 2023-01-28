@@ -45,6 +45,7 @@ layerzero使用了自己的一条专用的链来做跨链资产及NFT转移.使�
 |Name	                                           |Project| comments |	status	|action	|Investors|
 | -----                                            |:----- | :----    |  -----     | ----: |----:    |
 |[Aptos bridge](https://theaptosbridge.com/widget) |官方桥  |          |            | 高优先|    |
+|[liquidswap](https://bridge.liquidswap.com/)       |          |        |           |       |       |
 |[NFT bridge](https://app.holograph.xyz/bridge)    |DAPP  |            |  goerli    | 优先|     |
 
 Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId=1&dstChainId=42161&srcTypedAmount=)使用了layerzero:
