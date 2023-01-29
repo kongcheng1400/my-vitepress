@@ -17,7 +17,11 @@ System VS goals
 - 强调深入分析基本面意味着关注企业的实际经营情况和价值标准。
 
 ## 安全性checklist
-不管是投资还是生活，它们蕴含的哲学艺术是一样的。以反脆弱为范式。
+不管是投资还是生活，它们蕴含的哲学艺术是一样的。以反脆弱为范式。剩者为王。
+身体的反脆弱是冗余，投资的反脆弱也是冗余，心理的反脆弱则是减法。
+- 这件事可以不做吗？
+
+Patience is not the ability to wait, but the ability to keep a good attitude while waiting.
 
 就像飞行员的起飞前的检查一样.
 
@@ -47,6 +51,9 @@ System VS goals
 - 底层逻辑的贯穿理解(商业模式与你的checklist)
 - 延迟满足与复利的耐心
 - 目标的失败与系统的成功.
+
+### 复盘自己的错误
+- 2022-10 最低为卖出OP 为了满足杠杆。(不要再加杠杆而称为强制卖出的一部分。)
 
 ## special knowledge/kills
 - so what is my special knowledge/skills?
