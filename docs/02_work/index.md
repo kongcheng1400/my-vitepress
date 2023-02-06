@@ -6,6 +6,9 @@
 - programming
 - english
 - hardware basis
+## 当前重点wifi FAB15/16
+- wifi6/7
+- edmund.
 ## the working leverage
 - 让幸运成为命运.
 - python 之类的自动化工具，以及numpy/scipy之类计算工具。
