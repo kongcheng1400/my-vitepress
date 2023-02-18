@@ -65,3 +65,10 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 2. 点Faucet, 按照提示添加网络，在L1 testnet 领水 0.1 Tsteth。
 3. 点bridge, 将领到的水bridge 0.02到L2 testnet.
 4. 点swap. 将testeth换成usdc.
+
+## starknet
+上面两个swap. myswap.xyz和 10kswap.com. 
+使用orbiter.finance 过桥资产后， 在10kswap.com上swap，建usdc池子。
+
+## zksync
+zigzag
