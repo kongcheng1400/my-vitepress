@@ -3,6 +3,7 @@
 ### Steps
 1. [官网](sui.io)
 2. [sui foundation](https://suifoundation.org/)
+3. [sui forum](https://forums.sui.io/)
 1. 去[官网](https://suiet.app/docs/getting-started)安装钱包
 2. 去[迪斯科](https://discord.gg/zWpzMwGd) testnet-faucet 频道领测试币.
 3. 打开sui钱包, 网络选择testnet 不要再选devnet了。
@@ -22,15 +23,15 @@
 长线精刷。
 
 ### Projects
-[aptos labs0](https://aptoslabs.com/settings/profile)在上面注册你的邮箱和账号
-[aptos discord](https://discord.com/invite/aptoslabs)加迪斯科.
-[aptos forum](https://forum.aptoslabs.com/): 投票发帖子。
-[aptos names](https://www.aptosnames.com/): aptos官方项目，必做.
-[pontem](https://liquidswap.com/#/): aptos上最早的AMM dex 很好。用.
-[ditto](https://stake.dittofinance.io/): aptos上的LSD. stake and farming.
-[bluemove](https://bluemove.net/collection/aptos-names-v1):可以在上面很便宜的买aptos names nft. 
-[aries lending](https://app.ariesmarkets.xyz/lending):借贷交互.
-[hippo](https://hippo.space/swap/from/APT/to/stAPT):dex 聚合器。
+1. [aptos labs0](https://aptoslabs.com/settings/profile)在上面注册你的邮箱和账号
+2. [aptos discord](https://discord.com/invite/aptoslabs)加迪斯科.
+3. [aptos forum](https://forum.aptoslabs.com/): 投票发帖子。
+4. [aptos names](https://www.aptosnames.com/): aptos官方项目，必做.
+5. [pontem](https://liquidswap.com/#/): aptos上最早的AMM dex 很好。用.
+6. [ditto](https://stake.dittofinance.io/): aptos上的LSD. stake and farming.
+7. [bluemove](https://bluemove.net/collection/aptos-names-v1):可以在上面很便宜的买aptos names nft. 
+8. [aries lending](https://app.ariesmarkets.xyz/lending):借贷交互.
+9. [hippo](https://hippo.space/swap/from/APT/to/stAPT):dex 聚合器。
 
 
 ## layerzero 
@@ -72,6 +73,7 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 ## starknet
 上面两个swap. myswap.xyz和 10kswap.com. 
 使用orbiter.finance 过桥资产后， 在10kswap.com上swap，建usdc池子。
+https://community.starknet.io/t/starknet-decentralization-day-summary/6913
 
 ## zksync
 zigzag
