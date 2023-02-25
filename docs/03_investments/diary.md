@@ -173,3 +173,8 @@ YGG:YGG的公会及导师制度，让Gamefi的用户依托于公会，门槛以�
 - 用户建设了文化.
 - 没有竞争对手的社区.
 
+
+## pontem
+- dex, wallet
+- dev community, move playground.
+
