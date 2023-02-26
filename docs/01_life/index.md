@@ -40,7 +40,7 @@ Patience is not the ability to wait, but the ability to keep a good attitude whi
 
 
 - 是否反脆弱？是否更加多样化?
-- 杠杆率的红线？
+- 是否增加了杠杆？是否借贷？是否合约？
 - 是否违背常识？(例如周期)，where are we? 一个流动性缩减的环境(高通胀高资金成本)
 - 是否是预测性的结果？ 神秘主义话术。(RNDR)
 - 买入在别人强制卖出时。
