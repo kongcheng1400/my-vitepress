@@ -33,8 +33,12 @@ ETH完美契合一切护城河。
 - solidity:OO advanced programming language for writing smart contracts. EVM
 
 ### aptos
+- 活跃的社区以及从diem继承而来的开发人员.
 - 突然而至的NFT 及项目方defi的需求(sol marketing复制sol故事。)
 - 两家韩国game游戏的合作.
+- 早期，多研究多进入.
+#### 早期项目/生态及跨链优势.
+  - eternal: 
 ### link
 - 跨越鸿沟.
 

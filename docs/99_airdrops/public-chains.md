@@ -30,9 +30,11 @@
 5. [pontem](https://liquidswap.com/#/): aptos上最早的AMM dex 很好。用.
 6. [ditto](https://stake.dittofinance.io/): aptos上的LSD. stake and farming.
 7. [bluemove](https://bluemove.net/collection/aptos-names-v1):可以在上面很便宜的买aptos names nft. 
-8. [aries lending](https://app.ariesmarkets.xyz/lending):借贷交互.
+8. [aries lending](https://app.ariesmarkets.xyz/lending):借贷交互. 这个项目官方推荐.
 9. [hippo](https://hippo.space/swap/from/APT/to/stAPT):dex 聚合器。
-10. [Msafe](https://app.m-safe.io/apps): move上的多签app. 推荐撸。
+10. [Msafe](https://app.m-safe.io/apps): move上的多签app. 推荐撸。种子轮募集了5M.
+11. [tsunami](https://tsunami.finance/)测试网 有点类似于GMX.一定要做。
+
 
 
 ## layerzero 
