@@ -1,3 +1,5 @@
+# 市场先生
+- 躁郁双性患者.
 # 市场温度
 - now bear 20230128
 - 定投区间.
@@ -16,4 +18,6 @@
 
 
 ## bear
-- FUD
+- FUD 20230305 fud binance, signature.
+### 破产与退出
+- 3AC, FTX, voyger

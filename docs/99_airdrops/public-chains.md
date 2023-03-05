@@ -34,7 +34,7 @@
 9. [hippo](https://hippo.space/swap/from/APT/to/stAPT):dex 聚合器。
 10. [Msafe](https://app.m-safe.io/apps): move上的多签app. 推荐撸。种子轮募集了5M.
 11. [tsunami](https://tsunami.finance/)测试网 有点类似于GMX.一定要做。
-
+12. [merkle trade](https://merkle.trade/)测试网还没上线.
 
 
 ## layerzero 
