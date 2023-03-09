@@ -34,7 +34,7 @@
 9. [hippo](https://hippo.space/swap/from/APT/to/stAPT):dex 聚合器。
 10. [Msafe](https://app.m-safe.io/apps): move上的多签app. 推荐撸。种子轮募集了5M.
 11. [tsunami](https://tsunami.finance/)测试网 有点类似于GMX.一定要做。
-12. [merkle trade](https://merkle.trade/)测试网还没上线.
+12. [merkle trade](https://merkle.trade/)测试网还没上线. soul hackson 冠军.
 
 
 ## layerzero 
@@ -54,7 +54,7 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 ## scroll.io
 超牛逼超牛逼伯克利背景
 ### Projects
-[scroll.io](https://prealpha.scroll.io/)   
+[scroll.io](https://prealpha.scroll.io/)  TUSD:  0x38BA9a208F34Ddc9332f6DfC0E9d567f098958A4
 [uni testnet](https://uniswap-v3.scroll.io/#/swap)  swap
 [scroll.mux.network](https://scroll.mux.network/) perp test
 [redstone](https://redstone.finance/) :暂时没啥用，预言机
