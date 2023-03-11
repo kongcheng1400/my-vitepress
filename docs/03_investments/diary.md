@@ -34,7 +34,7 @@ YGG丢掉也是因为没有明显的收入。
 - 大部分时候,BTC/ETH/AR/APE随时可买。其他的 只能大熊消去泡沫之后买。
 
 
-### 黑天鹅的后怕
+### 黑天鹅的后怕/从别人的教训中学习
 - [x] Luna/StepN
 - [x] 3AC的崩塌
 - [x] FTX的崩塌(FTX提示为levelrage too high)
@@ -49,6 +49,12 @@ YGG丢掉也是因为没有明显的收入。
 - [ ] 即便我们都认为通胀下降或者缓解，对于联储看法并非如此。
 - [ ] this is one of the most irrational risk-on days i've ever seen. Investors must be assuming a 软着陆，降息，通胀回到2%和QE.
 - [ ] 传闻SEC禁止美元银行与币圈的联系。
+#### 通胀与高利率
+- [ ] silvegate清算
+- [ ] SVIB: 硅谷银行大量出售资产, 出售210亿美元未到期债券造成亏损18亿美元。通胀及高利率环境下，债券一直跌，碰到挤兑一样亏钱。
+#### 
+- [ ] HT闪崩从5到0.5, 100W HT爆仓。(不要做合约)
+- [ ] 即使熊市底部，经历其中，多轮触底中，一轮就可以全部清光散户资产。
 ### 白天鹅
 - [ ] 2023 Gamefi在ETH上爆发.
 - [ ] cathy wood在谈到FTX时对crypto仍有信心，估值2030 100Wu
