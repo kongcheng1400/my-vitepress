@@ -20,7 +20,7 @@ export default {
           { text: 'Readlist', link: '/01_life/readlist.md'},
           { text: '时常念', link: '/01_life/时常念.md' },
           {text: '叙事自由', link: '/01_life/narrative_freedom.md'},
-          { text: '反脆弱', link: '/01_life/反脆弱.md' },
+          { text: '反脆弱反稀缺', link: '/01_life/反脆弱反稀缺.md' },
           { text: '囤币', link: '/01_life/囤币.md' },
           { text: '名言', link: '/01_life/名言.md' },
           {text: '芒格', collapsible: true, collapsed: true, items:[{ text: '穷查理', link: '/01_life/芒格/穷查理宝典.md' }]},
