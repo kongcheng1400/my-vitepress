@@ -18,7 +18,7 @@ export default {
           { text: '随便写写', link: '/01_life/smalltalk.md' },
           { text: 'books', link: '/01_life/books.md' },
           { text: 'Readlist', link: '/01_life/readlist.md'},
-          { text: '时常念', link: '/01_life/时常念.md' },
+          { text: '思维模型', link: '/01_life/思维模型.md' },
           {text: '叙事自由', link: '/01_life/narrative_freedom.md'},
           { text: '反脆弱反稀缺', link: '/01_life/反脆弱反稀缺.md' },
           { text: '囤币', link: '/01_life/囤币.md' },
