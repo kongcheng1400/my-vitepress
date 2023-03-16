@@ -10,7 +10,8 @@ trust VS verify,
 能力圈 VS 细节自信 vs 小幅试错, 
 避免错误 VS 正向修正
 System VS goals
-复利 VS 人性.**
+复利 VS 人性
+稀缺(scarcity) vs 余闲(slack)**
 
 ## 最深刻的话words
 - 巴菲特/芒格: 击球区。
