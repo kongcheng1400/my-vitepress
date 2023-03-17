@@ -1,6 +1,7 @@
 # 哲学
 
-**core words:  
+**core words:
+思维模型  
 脆弱 VS 反脆弱, 
 trust VS verify, 
 证实 VS 证伪， 
@@ -15,7 +16,7 @@ System VS goals
 
 ## 最深刻的话words
 - 巴菲特/芒格: 击球区。
-- 霍华德马克思: 这次不一样.
+- 霍华德马克思: 
 - Raval: leverage.
 - 孙子: 昔之善战者，先为不可胜，以待敌之可胜。
 - Naval: for self-improvement without self-discipline, update your self-image.

@@ -5,4 +5,8 @@
 - scroll, sui, sei, aptos, stark, zk, arbitrum.
 
 ## 0317
-目标 50个号:
+pontem:目标 50个号:
+  - 11-15 finish
+
+zksync:
+  - LM1-LM5
