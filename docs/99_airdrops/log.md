@@ -3,3 +3,6 @@
 
 ## 0218
 - scroll, sui, sei, aptos, stark, zk, arbitrum.
+
+## 0317
+目标 50个号:

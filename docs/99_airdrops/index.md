@@ -1,7 +1,7 @@
 # Table of contents
 
 ## public chains
-- aptos
+- aptos(20M for 110K airdropped.)
 - sui
 - scroll
 - sei

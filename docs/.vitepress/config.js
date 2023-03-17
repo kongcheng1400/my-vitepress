@@ -74,7 +74,6 @@ export default {
           { text: 'Introduction', link: '/99_airdrops/' },
           { text: 'Data', link: '/99_airdrops/database.md' },
           { text: 'Public Chains', link: '/99_airdrops/public-chains.md' },
-          { text: '黑奴', link: '/99_airdrops/log.md' },
         ]
       },
       {
