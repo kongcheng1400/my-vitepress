@@ -39,7 +39,7 @@ Patience is not the ability to wait, but the ability to keep a good attitude whi
 
 知道了 行动了 才算。如果你检查了 你知道 你却不去做。 那么，你真的理解了吗？
 
-
+- 是否dhandho(憨夺):我们的方法强调利用无效市场中的低风险机会，而不是在有效市场中激进地投资。
 - 是否反脆弱？是否更加多样化?
 - 是否增加了杠杆？是否借贷？是否合约？
 - 是否违背常识？(例如周期)，where are we? 一个流动性缩减的环境(高通胀高资金成本)
@@ -51,7 +51,8 @@ Patience is not the ability to wait, but the ability to keep a good attitude whi
 - 参与到长期的行业与企业成长，跟随复利的奇迹。
 - FOMO了吗 大热必死? 带单及内幕， KOL大量的分析，细分赛道的分析, 或者出一个合订本，x链项目解析。
 - 这是高杠杆项目吗(luna. 创建自己的杠杆/FTX).
-- 
+- 不是拥挤,例如拍卖，招标式等等，是否来自KOL?
+- 不买矿币。(ape coin 收益40-80%)
 ### 真正影响大收益的因素和决策很少.
 先思考， 这件事可以不做吗？ 而不是做这件事可以带来什么好处.如果一头扎进噪音和日常波动里，就失去了真正的方向。
 

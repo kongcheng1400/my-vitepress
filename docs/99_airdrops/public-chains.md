@@ -75,9 +75,13 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 
 
 ## starknet
-上面两个swap. myswap.xyz和 10kswap.com. 
-使用orbiter.finance 过桥资产后， 在10kswap.com上swap，建usdc池子。
-https://community.starknet.io/t/starknet-decentralization-day-summary/6913
+1. 走官方桥:https://starkgate.starknet.io/
+2. 上面两个swap. 做swap和建pool
+  - myswap.xyz
+  - 10kswap.com. 
+3. 三方桥orbiter.finance 
+4. 社区要注册。发帖参加投票点赞等。
+  - https://community.starknet.io/t/starknet-decentralization-day-summary/6913
 
 ## zksync
 zigzag
