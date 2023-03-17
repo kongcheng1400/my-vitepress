@@ -21,6 +21,7 @@
 ### introductions
 背景超牛逼超牛逼。其独特的设计语言和架构保证了其独特的开发者社区。5-10年的代币解锁模型。
 长线精刷。
+钱包在这儿 https://pontem.network/
 
 ### Projects
 1. [aptos labs0](https://aptoslabs.com/settings/profile)在上面注册你的邮箱和账号
@@ -29,7 +30,7 @@
 4. [aptos names](https://www.aptosnames.com/): aptos官方项目，必做.
 5. [pontem](https://liquidswap.com/#/): aptos上最早的AMM dex 很好。用.
 6. [ditto](https://stake.dittofinance.io/): aptos上的LSD. stake and farming.
-7. [bluemove](https://bluemove.net/collection/aptos-names-v1):可以在上面很便宜的买aptos names nft. 
+7. [bluemove](c):可以在上面很便宜的买aptos names nft. 
 8. [aries lending](https://app.ariesmarkets.xyz/lending):借贷交互. 这个项目官方推荐.
 9. [hippo](https://hippo.space/swap/from/APT/to/stAPT):dex 聚合器。
 10. [Msafe](https://app.m-safe.io/apps): move上的多签app. 推荐撸。种子轮募集了5M.
