@@ -15,6 +15,7 @@
 
 ## 热度
 - FOMO
+- [altcoin season index](https://www.blockchaincenter.net/en/altcoin-season-index/)
 
 
 ## bear

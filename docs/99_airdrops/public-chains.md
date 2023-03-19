@@ -6,6 +6,10 @@
 3. 流动性> 10k
 4. 总交易额10000
 
+## defillama
+[defillama swap](https://swap.defillama.com/)
+
+
 ## Sui
 ### Steps
 1. [官网](sui.io)
@@ -62,10 +66,10 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 ## scroll.io
 超牛逼超牛逼伯克利背景
 ### Projects
-[scroll.io](https://prealpha.scroll.io/)  TUSD:  0x38BA9a208F34Ddc9332f6DfC0E9d567f098958A4
-[uni testnet](https://uniswap-v3.scroll.io/#/swap)  swap
-[scroll.mux.network](https://scroll.mux.network/) perp test
-[redstone](https://redstone.finance/) :暂时没啥用，预言机
+1. [scroll.io](https://prealpha.scroll.io/)  TUSD:  0x38BA9a208F34Ddc9332f6DfC0E9d567f098958A4
+2. [uni testnet](https://uniswap-v3.scroll.io/#/swap)  swap
+3. [scroll.mux.network](https://scroll.mux.network/) perp test
+4. [redstone](https://redstone.finance/) :暂时没啥用，预言机
 
 
 ## SEI
@@ -89,7 +93,10 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 3. 三方桥orbiter.finance 
 4. 社区要注册。发帖参加投票点赞等。
   - https://community.starknet.io/t/starknet-decentralization-day-summary/6913
-
+5. starknet.id
+  - https://app.starknet.id/
+6. nft
+  - https://mintsquare.io/mint    自己mint
 ## zksync
 - zigzag
 - 官方桥
@@ -101,3 +108,32 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
   - 钱包下载后解压缩在chrome导入extension.
   - 进入钱包后创建账号，点faucet领水.
 2. [swap](https://fuellabs.github.io/swayswap/) swap eth to dai. add pool
+
+
+## celestia
+高速模块化区块链
+- 状态：测试网节点.
+1.
+
+
+## AIGC chain.
+介绍挺屌。社区质疑中国项目割韭菜。
+但是not even wrong.高科技的VC化的风险投资90%归零类似于做慈善。
+
+## shardium
+1. 清理, ssh远程连接进入terminal
+cd ~/.shardeum
+./cleanup.sh
+cd ~/
+rm -rf .shardeum
+rm installer.sh
+2. isntall 教程 重新走一遍
+https://docs.shardeum.org/node/run/validator#step-2-download-and-install-validator
+
+## celestia
+
+
+## mantle
+按照步骤完成任务:
+
+1. https://bridge.testnet.mantle.xyz/deposit
