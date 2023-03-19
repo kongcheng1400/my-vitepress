@@ -59,6 +59,9 @@ a16z 的 Jesse Walden 说：“如果一个平台的现有资源可以用作构�
 - 李笑来:
 #### stacks
 - L2 与arbitrum有和区别
+#### arbitrum
+- DCA
+
 ### ETH
 ETH完美契合一切护城河。
 - 可组合性，无限涌现的可能性.(生态的可组合性NFT配合类似于twitter社交平台.)

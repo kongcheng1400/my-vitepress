@@ -9,4 +9,8 @@ pontem:目标 50个号:
   - 11-15 finish
 
 zksync:
-  - LM1-LM5
+  - LM1-LM8
+## 0318
+zksync:
+  - LM9-LM11
+  - zk1-zk5

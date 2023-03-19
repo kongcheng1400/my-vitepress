@@ -1,4 +1,11 @@
 # 公链
+基本交互指标:
+1. 官方桥, 及金额
+2. 随时间的交互2-6-9个月
+3. 4个合约4次，10个合约10次，
+3. 流动性> 10k
+4. 总交易额10000
+
 ## Sui
 ### Steps
 1. [官网](sui.io)
@@ -84,4 +91,13 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
   - https://community.starknet.io/t/starknet-decentralization-day-summary/6913
 
 ## zksync
-zigzag
+- zigzag
+- 官方桥
+- 官方nft功能.
+- syncswap
+
+## fuel
+1. [钱包](https://wallet.fuel.network/docs/install/)
+  - 钱包下载后解压缩在chrome导入extension.
+  - 进入钱包后创建账号，点faucet领水.
+2. [swap](https://fuellabs.github.io/swayswap/) swap eth to dai. add pool
