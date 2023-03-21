@@ -38,7 +38,7 @@
 1. [aptos labs0](https://aptoslabs.com/settings/profile)在上面注册你的邮箱和账号
 2. [aptos discord](https://discord.com/invite/aptoslabs)加迪斯科.
 3. [aptos forum](https://forum.aptoslabs.com/): 投票发帖子。
-4. [aptos names](https://www.aptosnames.com/): aptos官方项目，必做.
+4. [aptos names](https://www.aptosnames.com/): aptos官方项目，必做. 做一个主域名生成子域名，然后update你的地址上去.
 5. [pontem](https://liquidswap.com/#/): aptos上最早的AMM dex 很好。用.
 6. [ditto](https://stake.dittofinance.io/): aptos上的LSD. stake and farming.
 7. [bluemove](c):可以在上面很便宜的买aptos names nft. 
@@ -98,6 +98,10 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 6. nft
   - https://mintsquare.io/mint    自己mint
 ## zksync
+目前正是网zksync lite就这两个主要作用.
+1. 官网 https://wallet.zksync.io/  在里面可以使用官方桥从主网存ETH. 然后点nft 可以mint一个nft. 注意用的ipfs的cid.
+2. zigzag上订单薄交易: https://trade.zigzag.exchange/?market=ETH-DAI&network=zksync
+
 - zigzag
 - 官方桥
 - 官方nft功能.

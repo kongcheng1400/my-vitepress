@@ -22,6 +22,7 @@ System VS goals
 - Naval: for self-improvement without self-discipline, update your self-image.
 - 曾国藩: 结硬寨打呆仗。
 - 金刚经.
+- 王川: 智慧是更多选择权.(长线的思考更多的选择权)
 
 ## 价值投资哲学
 价值投资不是发现廉价证券的机械式工具，实质上，价值投资是一种全面客观的投资哲学，强调深入分析基本面的必要性，追求长期投资价值，控制风险，抵御从众心理。

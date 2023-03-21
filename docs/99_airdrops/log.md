@@ -27,6 +27,7 @@ zksync:
   - 加一次交易 finished: bcb->bsc-10: LM1-LM5
   bsc-11:充值
   bsc-12:充值
+  从okex充值过来的
   完成到BSC-20
 
 aptos:
