@@ -64,13 +64,13 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 
 
 ## scroll.io
-超牛逼超牛逼伯克利背景
+超牛逼超牛逼伯克利背景, alpha 
 ### Projects
 1. [scroll.io](https://prealpha.scroll.io/)  TUSD:  0x38BA9a208F34Ddc9332f6DfC0E9d567f098958A4
 2. [uni testnet](https://uniswap-v3.scroll.io/#/swap)  swap
 3. [scroll.mux.network](https://scroll.mux.network/) perp test
 4. [redstone](https://redstone.finance/) :暂时没啥用，预言机
-
+5. [orbiter bridge](http://rinkeby.orbiter.finance) from ETH goerli => Scroll L2 testnet
 
 ## SEI
 基于cosmos专门为高速交易而设计的L1，号称要做币圈nasdaq.投资方:Multicoin Capital 等基金的投资，参与方包括 Coinbase Ventures、Delphi Digital、Hudson River Trading、GSR、Hypersphere、Flow Traders、Kronos Research 以及 Anchorage、Frax、Yield Guild Games 和 Tangent 
@@ -111,26 +111,10 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 
 
 ## celestia
-高速模块化区块链
+高速模块化区块链L1. 将来会有native pos token.
 - 状态：测试网节点.
-1.
-
-
-## AIGC chain.
-介绍挺屌。社区质疑中国项目割韭菜。
-但是not even wrong.高科技的VC化的风险投资90%归零类似于做慈善。
-
-## shardium
-1. 清理, ssh远程连接进入terminal
-cd ~/.shardeum
-./cleanup.sh
-cd ~/
-rm -rf .shardeum
-rm installer.sh
-2. isntall 教程 重新走一遍
-https://docs.shardeum.org/node/run/validator#step-2-download-and-install-validator
-
-## celestia
+  - 主网时间2023 later. 测试网交互无奖励.
+  - 融资56M
 
 
 ## mantle

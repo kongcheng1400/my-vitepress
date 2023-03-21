@@ -1,8 +1,14 @@
 # points
 - 项目方网站注册， AIP， EIP治理。
+LM1-LM11
+zk1-zk8
 
-## 0218
+## projects
 - scroll, sui, sei, aptos, stark, zk, arbitrum.
+- scroll, fuel, stark, aptos
+### arbitrum
+- defi > 5开始卖 最多卖50% 剩下的做ETH-arb lp.
+- 
 
 ## 0317
 pontem:目标 50个号:
@@ -17,3 +23,12 @@ zksync:
 
 
 ## 0320
+zksync:
+  - 加一次交易 finished: bcb->bsc-10: LM1-LM5
+  bsc-11:充值
+  bsc-12:充值
+  完成到BSC-20
+
+aptos:
+
+  
