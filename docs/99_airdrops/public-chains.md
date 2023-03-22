@@ -40,7 +40,7 @@ OP的交互发了一部分，coinbase占队OP之后未来会很有潜力.
 3. 打开sui钱包，点app进去， Mint An NFT, 给你一个nft. 再进Sui NFT Mint可以mint一个自己的NFT.
 4. 打开sui钱包，点stake 进去， stake 0.001, 给你一个nft
 4. 点app进去go[beefy](https://gotbeef.app/):可以创建一个bet 游戏。去迪斯科找地址.
-5. 创建和领poap  suia (https://suia.io/)
+5. 创建和领poap  [suia] (https://suia.io/)
 6. suinames: [suinames](https://sui-names.com/)
 7. [bluemove](https://sui.bluemove.net/) 去买nft.
 8. [movex](https://app.movex.exchange/) dex
@@ -60,7 +60,7 @@ OP的交互发了一部分，coinbase占队OP之后未来会很有潜力.
 4. [aptos names](https://www.aptosnames.com/): aptos官方项目，必做. 做一个主域名生成子域名，然后update你的地址上去.
 5. [pontem](https://liquidswap.com/#/): aptos上最早的AMM dex 很好。用.
 6. [ditto](https://stake.dittofinance.io/): aptos上的LSD. stake and farming.
-7. [bluemove](c):可以在上面很便宜的买aptos names nft. 
+7. [bluemove](https://bluemove.net/collection/aptos-names-v1):可以在上面很便宜的买aptos names nft.  买到之后在aptosnames官网设置.
 8. [aries lending](https://app.ariesmarkets.xyz/lending):借贷交互. 这个项目官方推荐.
 9. [hippo](https://hippo.space/swap/from/APT/to/stAPT):dex 聚合器。
 10. [Msafe](https://app.m-safe.io/apps): move上的多签app. 推荐撸。种子轮募集了5M.
