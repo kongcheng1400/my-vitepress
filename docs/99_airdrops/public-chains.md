@@ -1,16 +1,35 @@
 # 公链
 基本交互指标:
-1. 官方桥, 及金额
+1. 官方桥, 钱包余额0.05
 2. 随时间的交互2-6-9个月
 3. 4个合约4次，10个合约10次，
 3. 流动性> 10k
 4. 总交易额10000
 
 ## defillama
+- 一般猪脚饭
 [defillama swap](https://swap.defillama.com/)
 
 
+## 多签safe
+https://app.safe.global/
+选择L2网络: op, arb, zk等，创建多签钱包，存钱，给自己钱包转转帐。
+记得钱包里面留多钱。
+
+## OP
+OP的交互发了一部分，coinbase占队OP之后未来会很有潜力.
+生态很多又广泛又安全--对生态做了KYC
+一个月交互一次即可, 一般牛肉饭.
+1. 官方桥:https://app.optimism.io/bridge/deposit
+2. 买op之后 代理给代理人投票: https://app.optimism.io/delegates
+1. uniswap: 做swap, 建池子: https://uniswap.org/
+2. https://app.safe.global/ 多签.
+上面为必做.
+2. 其他的perp, aave, 自己选择
+
 ## Sui
+- 地址选好了，低价IFO.
+- 没必要刷了。
 ### Steps
 1. [官网](sui.io)
 2. [sui foundation](https://suifoundation.org/)
@@ -31,7 +50,7 @@
 
 ### introductions
 背景超牛逼超牛逼。其独特的设计语言和架构保证了其独特的开发者社区。5-10年的代币解锁模型。
-长线精刷。
+长线精刷。 海鲜牛肉饭.
 钱包在这儿 https://pontem.network/
 
 ### Projects
@@ -51,7 +70,7 @@
 
 ## layerzero 
 layerzero使用了自己的一条专用的链来做跨链资产及NFT转移.使用layerzero的大项目实在太多，不可胜数。
-
+牛肉饭.
 ### Projects
 
 |Name	                                           |Project| comments |	status	|action	|Investors|
@@ -65,6 +84,7 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 
 ## scroll.io
 超牛逼超牛逼伯克利背景, alpha 
+超级牛肉饭.
 ### Projects
 1. [scroll.io](https://prealpha.scroll.io/)  TUSD:  0x38BA9a208F34Ddc9332f6DfC0E9d567f098958A4
 2. [uni testnet](https://uniswap-v3.scroll.io/#/swap)  swap
@@ -74,6 +94,7 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 
 ## SEI
 基于cosmos专门为高速交易而设计的L1，号称要做币圈nasdaq.投资方:Multicoin Capital 等基金的投资，参与方包括 Coinbase Ventures、Delphi Digital、Hudson River Trading、GSR、Hypersphere、Flow Traders、Kronos Research 以及 Anchorage、Frax、Yield Guild Games 和 Tangent 
+一般牛肉饭.
 ###
 1. 安装chrome keplr钱包:     https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en
 2. https://trade.vortexprotocol.io/ 选择连接钱包来连sei网络.
@@ -86,6 +107,7 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 
 
 ## starknet
+超级牛肉海鲜饭，估计快照了。尽人事.
 1. 走官方桥:https://starkgate.starknet.io/
 2. 上面两个swap. 做swap和建pool
   - myswap.xyz
@@ -98,16 +120,15 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 6. nft
   - https://mintsquare.io/mint    自己mint
 ## zksync
+超级牛肉海鲜饭，估计快照了。尽人事.
 目前正是网zksync lite就这两个主要作用.
 1. 官网 https://wallet.zksync.io/  在里面可以使用官方桥从主网存ETH. 然后点nft 可以mint一个nft. 注意用的ipfs的cid.
 2. zigzag上订单薄交易: https://trade.zigzag.exchange/?market=ETH-DAI&network=zksync
 
-- zigzag
-- 官方桥
-- 官方nft功能.
 - syncswap
 
 ## fuel
+- 海鲜牛肉饭
 1. [钱包](https://wallet.fuel.network/docs/install/)
   - 钱包下载后解压缩在chrome导入extension.
   - 进入钱包后创建账号，点faucet领水.
@@ -115,13 +136,10 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 
 
 ## celestia
+海鲜牛肉饭。测试网一般出力。
 高速模块化区块链L1. 将来会有native pos token.
 - 状态：测试网节点.
   - 主网时间2023 later. 测试网交互无奖励.
   - 融资56M
 
 
-## mantle
-按照步骤完成任务:
-
-1. https://bridge.testnet.mantle.xyz/deposit
