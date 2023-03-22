@@ -20,5 +20,8 @@
 
 ## bear
 - FUD 20230305 fud binance, signature.
+- 20230322.
 ### 破产与退出
 - 3AC, FTX, voyger
+- 20230322: SVB, Signature, first republic, 瑞信。
+大的金融危机快要完成的时候会有机构倒掉。
