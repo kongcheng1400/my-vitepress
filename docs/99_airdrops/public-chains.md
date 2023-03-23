@@ -119,6 +119,7 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
   - https://app.starknet.id/
 6. nft
   - https://mintsquare.io/mint    自己mint
+  
 ## zksync
 超级牛肉海鲜饭，估计快照了。尽人事.
 目前正是网zksync lite就这两个主要作用.
@@ -145,7 +146,12 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 
 ## alchemy & infura
 使用自定义的rpc,来增加交互.
-- alchemy
--infura
+- alchemy learn. https://twitter.com/AlchemyLearn
+- infura 
 
 ## taiko
+- 牛肉饭
+- 2nd开始alpha
+- https://twitter.com/taikoxyz/status/1638584789203836928?s=20
+
+节点:
