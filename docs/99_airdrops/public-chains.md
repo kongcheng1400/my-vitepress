@@ -155,3 +155,7 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 - https://twitter.com/taikoxyz/status/1638584789203836928?s=20
 
 节点:
+
+## coinbase L2
+base不是心血来潮而是coinbase将其主要业务上链，官推说没有发币计划，gas用ETH.
+但是理论上来说交易所发币给用户做激励是个常态。
