@@ -1,8 +1,8 @@
 # 公链
 基本交互指标:
-1. 官方桥, 钱包余额0.05
+1. 官方桥, 钱包余额0.05, 资金也有越大越好. 10000
 2. 随时间的交互2-6-9个月
-3. 4个合约4次，10个合约10次，
+3. 4个合约4次，10个合约10次，> 10000, 
 3. 流动性> 10k
 4. 总交易额10000
 
@@ -135,6 +135,10 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
   - 进入钱包后创建账号，点faucet领水.
 2. [swap](https://fuellabs.github.io/swayswap/) swap eth to dai. add pool
 
+## Metamask
+- 使用内置swap
+- http://portfolio.metamask.io/bridge
+
 
 ## celestia
 海鲜牛肉饭。测试网一般出力。
@@ -159,3 +163,21 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 ## coinbase L2
 base不是心血来潮而是coinbase将其主要业务上链，官推说没有发币计划，gas用ETH.
 但是理论上来说交易所发币给用户做激励是个常态。
+1. bridge: https://bridge.base.org/deposit
+2. https://www.cap.io/pool    
+3. https://testnet.zonic.app/asset/base_goerli/
+
+
+## zksync era
+目前来看era与lite是两条链，lite应该废弃了.
+1. https://lite.zksync.io/account  把lite的钱提到主网.
+2. https://portal.zksync.io/bridge 存eth从主网到era.
+3. 生态在 https://ecosystem.zksync.io/    选era参与...
+4. 重点: syncswap.xyz    swap, add pool.
+5. orbiter.finance 三方桥.
+6. https://app.mute.io/pool   swap/pool 已发币 随缘交互
+7. https://mintsquare.io/zksync   mint一个nft.
+8. https://swap-zksync.spacefi.io/#/swap 随缘交互.
+策略:在syncswap.xyz上建eth-usdc池子，反撸撸子.
+1. 一般而言ETH-USDC 交易对可以大概年华20-50%, 尽量一个账号提400usdc + 0.3 ETH 过去。 在sync swap上建个ETH-USDC的池子，可以把各种手续费撸回来。
+2. 其他账号顺手随缘.
