@@ -76,7 +76,11 @@ ETH完美契合一切护城河。
 > 在不同的抽象层次上对同样的事务进行研究看见的东西完全不一样。在商业层次上研究ETH, 看见的是去中心化的信任效率提高。在哲学层次上研究ETH, 看见的是可组合性，无限涌现的可能性。
 
 - solidity:OO advanced programming language for writing smart contracts. EVM
-
+#### ETH 生态亮点:
+- 2019: NFT/DEFI
+- 2023: 扩展L2.
+#### L2亮点
+- 去中心化的排序器以及聚合器.(staking.)
 ### aptos
 - 活跃的社区以及从diem继承而来的开发人员.
 - 突然而至的NFT 及项目方defi的需求(sol marketing复制sol故事。)

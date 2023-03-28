@@ -5,6 +5,8 @@
 3. 4个合约4次，10个合约10次，> 10000, 
 3. 流动性> 10k
 4. 总交易额10000
+## ETH L2
+- sequencer, aggregator:
 
 ## defillama
 - 一般猪脚饭
@@ -135,10 +137,19 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
   - 进入钱包后创建账号，点faucet领水.
 2. [swap](https://fuellabs.github.io/swayswap/) swap eth to dai. add pool
 
-## Metamask
+## Metamask linea EVM.
 - 使用内置swap
 - http://portfolio.metamask.io/bridge
+- 网站: https://goerli.linea.build
+- 文档开启测试及部署合约: https://docs.linea.build/category/use-linea
+- 小狐狸内置这个测试网.
+- 领水: https://goerlifaucet.com   跨链.
+- https://swap.goerli.linea.build/#/swap
 
+## Polygon ZKEvm
+- polygon团队的ETH L2项目: 看了下排序和聚合器的激励使用:必须在L1合约中锁定一定数量的MATIC代币。意味着不会有新的L2代币.
+- 利好matic. 随缘做.
+- wallt_bridge: https://wallet.polygon.technology/zkEVM/bridge
 
 ## celestia
 海鲜牛肉饭。测试网一般出力。
