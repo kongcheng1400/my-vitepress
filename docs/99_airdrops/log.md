@@ -17,12 +17,15 @@ zk1-zk8
 - argentx 1-4 完成. 还有zk5-8
 ### zksync
 zk1-8:精品号，每个存0.7x
-zk2: 还有几个ape,记得充交易所.
+zk2: 还有几个ape,记得充交易所. zk8还有半个aave,记得充交易所.
+
 - era begins:
 - bcb- bsc-3 完成.
-- zk1-zk4存款和lite清理完成.
-- bsc4-10: lite清掉.要从safe存usdc
-- bsc-7/8: 存了ETH. 不存usdc./bsc-8走OKEX.
+- zk1-zk8存款和lite清理完成.
+- bsc4-10: lite清掉.要从safe存usdc, bsc-11-15, lite 清掉了.
+- bsc-7/8: 存了ETH. 不存usdc.bsc-7/bsc-8走OKEX.
+- bsc-15: 还没存ETH. 从mainnet 存。
+
 
 
 
