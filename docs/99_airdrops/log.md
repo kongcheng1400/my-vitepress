@@ -21,13 +21,13 @@ zk2: 还有几个ape,记得充交易所. zk8还有半个aave,记得充交易所.
 
 - era begins:
 - bcb- bsc-3 完成.syncswap完成.
-- zk1-zk8存款和lite清理完成.
+- zk1-zk8存款和lite清理完成. zk1-8: syncswapped.
 - bsc5-6: 存了桥.币安.
 - bsc-7/8: 存了ETH. bsc-7/bsc-8走OKEX. 已经syncswap.
 - bsc-15: bsc-16:从safe存, 跨了桥.
 - bsc5-bsc14, bsc17-19:垮了桥，从币安存.
-- bsc5-bsc13: syncswap完成.
-- LM1-LMx:建个safe弄. LM1-LM11取出了。LM1-5 已经从safe 存了钱.
+- bsc5-bsc13: syncswap完成. bsc-14:19: syncseapped.
+- LM1-LMx:建个safe弄. LM1-LM11取出了。LM1-8 已经从safe 存了钱. LM4-LM7 跨链完成. LM1-LM5: syncswapped.
 
 
 

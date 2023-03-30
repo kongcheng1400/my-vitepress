@@ -7,6 +7,9 @@
 4. 总交易额10000
 ## ETH L2
 - sequencer, aggregator:
+- 四大天王: OP, ARB, Stark, ZkSync.
+- 四小龙: linear(consesus zkEVM), taiko, scroll, base
+- aptos pontem.
 
 ## defillama
 - 一般猪脚饭
@@ -17,6 +20,13 @@
 https://app.safe.global/
 选择L2网络: op, arb, zk等，创建多签钱包，存钱，给自己钱包转转帐。
 记得钱包里面留多钱。
+
+## arbitrum NOVA
+- tofunft.com nft交互.买完hold再卖。
+- arbswap.io  swap pool
+- orbiter.finance 出去。 
+- rouge.network :设立一个event
+- sushi.com swap, pool.
 
 ## OP
 OP的交互发了一部分，coinbase占队OP之后未来会很有潜力.
@@ -123,12 +133,9 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
   - https://mintsquare.io/mint    自己mint
   
 ## zksync
-超级牛肉海鲜饭，估计快照了。尽人事.
-目前正是网zksync lite就这两个主要作用.
-1. 官网 https://wallet.zksync.io/  在里面可以使用官方桥从主网存ETH. 然后点nft 可以mint一个nft. 注意用的ipfs的cid.
-2. zigzag上订单薄交易: https://trade.zigzag.exchange/?market=ETH-DAI&network=zksync
+zkSync lite老号可以豪华交互zkSync Era.
 
-- syncswap
+畅游zkevm，去 http://bridge.zksync.io 从主网桥些ETH过去，从bsc经过 http://meson.fi 桥点usdc过去，到syncswap, mute左刷刷右刷刷顺便再去mintsquare买点NFT，然后从orbiter溜到polygon zkevm，去remix随便部署个垃圾NFT或者ERC20，再用orbiter溜去arbiturm然后回家
 
 ## fuel
 - 海鲜牛肉饭
