@@ -131,7 +131,9 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
   - https://app.starknet.id/
 6. nft
   - https://mintsquare.io/mint    自己mint
-  
+
+7. norstra ->defi 稳定币 。大项目
+  - https://nostra.finance/
 ## zksync
 zkSync lite老号可以豪华交互zkSync Era.
 
