@@ -139,6 +139,8 @@ zkSync lite老号可以豪华交互zkSync Era.
 
 畅游zkevm，去 http://bridge.zksync.io 从主网桥些ETH过去，从bsc经过 http://meson.fi 桥点usdc过去，到syncswap, mute左刷刷右刷刷顺便再去mintsquare买点NFT，然后从orbiter溜到polygon zkevm，去remix随便部署个垃圾NFT或者ERC20，再用orbiter溜去arbiturm然后回家
 
+https://spacefi.io/
+
 ## fuel
 - 海鲜牛肉饭
 1. [钱包](https://wallet.fuel.network/docs/install/)
@@ -198,6 +200,7 @@ base不是心血来潮而是coinbase将其主要业务上链，官推说没有�
 6. https://app.mute.io/pool   swap/pool 已发币 随缘交互
 7. https://mintsquare.io/zksync   mint一个nft.
 8. https://swap-zksync.spacefi.io/#/swap 随缘交互.
+9. https://www.mesprotocol.com/     orderbook dex:
 策略:在syncswap.xyz上建eth-usdc池子，反撸撸子.
 1. 一般而言ETH-USDC 交易对可以大概年华20-50%, 尽量一个账号提400usdc + 0.3 ETH 过去。 在sync swap上建个ETH-USDC的池子，可以把各种手续费撸回来。
 2. 其他账号顺手随缘.
