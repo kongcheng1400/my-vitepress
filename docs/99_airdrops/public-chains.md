@@ -8,11 +8,11 @@
 ## ETH L2
 - sequencer, aggregator:
 - 四大天王: OP, ARB, Stark, ZkSync.
-- 四小龙: linear(consesus zkEVM), taiko, scroll, base
+- 四小龙: linear(consesus zkEVM), taiko, scroll, base, arbitrum nova
 - aptos pontem.
-
+重点: scroll, linear, arbitrum nova, aptos pontem, stark及生态。
 ## defillama
-- 一般猪脚饭
+- 一般猪脚饭, 顺手。
 [defillama swap](https://swap.defillama.com/)
 
 
@@ -82,7 +82,7 @@ OP的交互发了一部分，coinbase占队OP之后未来会很有潜力.
 
 ## layerzero 
 layerzero使用了自己的一条专用的链来做跨链资产及NFT转移.使用layerzero的大项目实在太多，不可胜数。
-牛肉饭.
+牛肉饭. 功能链一般无大毛。顺手做。
 ### Projects
 
 |Name	                                           |Project| comments |	status	|action	|Investors|
@@ -134,10 +134,29 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 
 7. norstra ->defi 稳定币 。大项目
   - https://nostra.finance/
+
+8. zkx protocl
+  - 大官方项目.
+
 ## zksync
 zkSync lite老号可以豪华交互zkSync Era.
 
 畅游zkevm，去 http://bridge.zksync.io 从主网桥些ETH过去，从bsc经过 http://meson.fi 桥点usdc过去，到syncswap, mute左刷刷右刷刷顺便再去mintsquare买点NFT，然后从orbiter溜到polygon zkevm，去remix随便部署个垃圾NFT或者ERC20，再用orbiter溜去arbiturm然后回家
+
+## zksync era
+目前来看era与lite是两条链，lite应该废弃了.
+1. https://lite.zksync.io/account  把lite的钱提到主网.
+2. https://portal.zksync.io/bridge 存eth从主网到era.
+3. 生态在 https://ecosystem.zksync.io/    选era参与...
+4. 重点: syncswap.xyz    swap, add pool.
+5. orbiter.finance 三方桥.
+6. https://app.mute.io/pool   swap/pool 已发币 随缘交互
+7. https://mintsquare.io/zksync   mint一个nft.
+8. https://swap-zksync.spacefi.io/#/swap 随缘交互.
+策略:在syncswap.xyz上建eth-usdc池子，反撸撸子.
+1. 一般而言ETH-USDC 交易对可以大概年华20-50%, 尽量一个账号提400usdc + 0.3 ETH 过去。 在sync swap上建个ETH-USDC的池子，可以把各种手续费撸回来。
+2. 其他账号顺手随缘.
+
 
 ## fuel
 - 海鲜牛肉饭
@@ -188,16 +207,3 @@ base不是心血来潮而是coinbase将其主要业务上链，官推说没有�
 3. https://testnet.zonic.app/asset/base_goerli/
 
 
-## zksync era
-目前来看era与lite是两条链，lite应该废弃了.
-1. https://lite.zksync.io/account  把lite的钱提到主网.
-2. https://portal.zksync.io/bridge 存eth从主网到era.
-3. 生态在 https://ecosystem.zksync.io/    选era参与...
-4. 重点: syncswap.xyz    swap, add pool.
-5. orbiter.finance 三方桥.
-6. https://app.mute.io/pool   swap/pool 已发币 随缘交互
-7. https://mintsquare.io/zksync   mint一个nft.
-8. https://swap-zksync.spacefi.io/#/swap 随缘交互.
-策略:在syncswap.xyz上建eth-usdc池子，反撸撸子.
-1. 一般而言ETH-USDC 交易对可以大概年华20-50%, 尽量一个账号提400usdc + 0.3 ETH 过去。 在sync swap上建个ETH-USDC的池子，可以把各种手续费撸回来。
-2. 其他账号顺手随缘.
