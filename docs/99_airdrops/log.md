@@ -29,8 +29,11 @@ zk2: 还有几个ape,记得充交易所. zk8还有半个aave,记得充交易所.
 - bsc5-bsc13: syncswap完成. bsc-14:19: syncseapped.
 - LM1-LMx:建个safe弄. LM1-LM11取出了。LM1-8 已经从safe 存了钱. LM4-LM7 跨链完成. LM1-LM8: syncswapped.
 
-
-
+#### 继续存钱
+- bcb done. 800 done, bsc-5 from safe main.
+#### ot
+zk1-4: ot - trade
+bcb-bsc-3: eth-ot pool
 
 
 ## 0317
