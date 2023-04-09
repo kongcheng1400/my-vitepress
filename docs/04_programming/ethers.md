@@ -43,3 +43,17 @@ Gas Units(limit) & Gas Price per unit: 21,000 * 200 = 4,200,000, 0.0042ETH
 after the london upgrade:
 gas limit * (base + priority fee) 
 refund = max fee - (base fee + priority fee)
+
+## contract类.
+
+# BigNumber
+## BigNumber和单位转换.
+使用ethers.BigNumber.From("1000000000")函数将string, number, BigNumber等类型转换为BinNumber.
+
+## 运算
+add, sub, mul, div, eq
+
+## 转换应用.
+用户可读: ether, 机器可读: wei
+- formatUnits
+- parseUnits

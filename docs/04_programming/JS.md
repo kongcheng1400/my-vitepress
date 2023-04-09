@@ -18,6 +18,9 @@
 
 2. string
 - 模版字符串
+- 属性:
+  - length
+
 
 3. boolean
 - true false
@@ -25,12 +28,23 @@
 ### 引用类型
 
 #### 数组 /Array
+创建数组:
+  - Array.from(iteratable)
+  - new Array()
+
 遍历:
 - for
 - forEach
-- for...of
+- 迭代器
+  - for...of(iteratable)
+算法:
+- arr.everay(pridict): statusArr.every(e => e === true)
 
 #### map
+- 属性
+  - size
+- 方法
+  - keys(), values()
 
 #### set
 
@@ -52,6 +66,11 @@ JS是弱类型语言，开发者在声明变量的时候不需要声明变量类
 
 # oop
 
-## library
+# library
+## commonJS
+- require(), exports, module.export
 
 ## interface
+
+# NPM
+- npm list -g --depth 0 

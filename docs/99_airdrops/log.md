@@ -34,7 +34,15 @@ zk2: 还有几个ape,记得充交易所. zk8还有半个aave,记得充交易所.
 #### ot
 zk1-4: ot - trade
 bcb-bsc-3: eth-ot pool
+zk6-8:取出。
 
+#### mute.io
+zk1-4: mute. pool, swap. 0407
+bcb-bsc-3: 从weth-usdc取存到mute.
+bsc-4:-6 在sync-swap 加weth-usdc
+LM1-3: add fund and add pool
+LM4-6: add fund and add pool
+bsc5-15: mute IO加eth-mute池子.
 
 ## 0317
 pontem:目标 50个号:
@@ -76,3 +84,30 @@ LM44 fini
 
 
 
+## goerli
+- 0407 script distributed to LM1-LM16.
+- distributed 
+
+## base
+  'BSC-4' => '0x8af2c5D51296e05e377B53725d20Bc1920eaf636',
+  'BSC-5' => '0xF9B8638e5fdd812479bdED3729e3E6394Aff1A23',
+  'F416' => '0x57a4C4a5248bFa7c1f5272d5375bEAd729Aa0aE1',
+  'BSC-3' => '0xe8426086a8C55D8E3969F89802f1Da5F52417f73',
+  'BSC-6' => '0x9062B3a35a8e6d3200C649A7f62b21557337407c',
+  'C800' => '0x193dB03CE504503E87A6e3568E5934f275Bc1047',
+  'BSC-7' => '0x55Ba22c09b03597e4cE5c0B3CE5893AF80732656',
+  '79F3' => '0xB9b1cDe4C12c376B4fd2B897D3ed9F8aCFD6Ca33',
+  'BSC-8' => '0xeE81cdB04F1d83CBd67030aCa8eA2f66d2c4Aded'
+
+  'BSC-12' => '0xEd162a16Ee730B8FEfdF7f81108A2448dc7b76Ad',
+  'BSC-15' => '0x45938cB2441c653cCCb289b32D81Fb3EAF72fF6f',
+  'BSC-17' => '0x69F49c33B9F2F991aD19a4705683618A006b4150',
+  'BSC-18' => '0x290E750a39f7079e3Cd601a3846DFBdfa7B4Ea3A',
+  'BSC-16' => '0x27fD8074Da24800838Fe6d593Aa553598a662269',
+  'BSC-10' => '0xA6df31bf92E21768c16fEa2EbFd288e8914d178C',
+  'BSC-13' => '0xCCFAbF2a0e97Ccf68a623618dE378896AB47c5DF',
+  'BSC-9' => '0x8A60324Ee0d8cD53ae4C20fA9301107fc3AB46b8',
+  'BSC-11' => '0x3A78aaeFA05826b7285522F3B9CcE92a0A580cce',
+  'BSC-14' => '0x9b834baAC19110a018F42F00174f242b50872cDE',
+  'BSC-19' => '0xE285f3ceeb580A4406eB2042e9F3D2BFE73C644C'
+  -奇数完成

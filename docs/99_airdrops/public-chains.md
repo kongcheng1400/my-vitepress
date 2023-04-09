@@ -2,9 +2,8 @@
 基本交互指标:
 1. 官方桥, 钱包余额0.05, 资金也有越大越好. 10000
 2. 随时间的交互2-6-9个月
-3. 4个合约4次，10个合约10次，> 10000, 
-3. 流动性> 10k
-4. 总交易额10000
+3. 4 tx or 4 contracts=>10 tx or 10 contracts
+4. 总交易额10000/50000/250000
 ## ETH L2
 - sequencer, aggregator:
 - 四大天王: OP, ARB, Stark, ZkSync.
@@ -152,7 +151,7 @@ zkSync lite老号可以豪华交互zkSync Era.
 5. orbiter.finance 三方桥.
 6. https://app.mute.io/pool   swap/pool 已发币 随缘交互
 7. https://mintsquare.io/zksync   mint一个nft.
-8. https://swap-zksync.spacefi.io/#/swap 随缘交互.
+8.  随缘交互.
 策略:在syncswap.xyz上建eth-usdc池子，反撸撸子.
 1. 一般而言ETH-USDC 交易对可以大概年华20-50%, 尽量一个账号提400usdc + 0.3 ETH 过去。 在sync swap上建个ETH-USDC的池子，可以把各种手续费撸回来。
 2. 其他账号顺手随缘.
