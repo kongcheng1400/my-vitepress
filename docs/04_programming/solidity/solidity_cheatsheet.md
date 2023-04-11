@@ -1,3 +1,7 @@
+# good resources.
+- [solidity-by-example.org](https://solidity-by-example.org/payable/)
+- [openzeppelin.com](https://docs.openzeppelin.com/learn/developing-smart-contracts)
+
 # ethereum
 ## transactions
 - from: address (signed by this)
@@ -188,6 +192,18 @@ days: 24hours = 86400
 ### 限制访问
 
 
+# extending contracts
+https://docs.openzeppelin.com/contracts/4.x/extending-contracts
+- is语法(inheritence). contract MyToken is ERC20.
+- library: using for 语法.
+- using hooks.
+  - hooks用在某动作前, 或者 某动作后.
+  - 有利于安全以及干净的代码，不用重写整个父合约的动作。
+  - rules
+    - 加virutal
+    - super._beforeTokenTransfer() //call parent hook.
+# 可升级合约
+
 
 # library/using/import
 import "./IERC20.sol";
@@ -196,11 +212,13 @@ import "../../math/SafeMath.sol";
 using: including a library within a contract in solidity.
 
 
+
 # 继承/oop
 把合约看作是C++中的类，solidity也是面向对象的编程，支持继承.
+- 继承: 可以使用父合约中的功能.
 - virtual: 父合约中的函数，如果希望子合约重写，需要加上virtual关键字.
-- override: 子合约重写了父合约中的函数，需要加上override关键字.
-- 用override修饰的
+- override: 子合约重写了父合约中的函数，需要加上override关键字.( override父合约功能.)
+- calling super: 扩展父合约的行为， 如果在原来的基础上加点东西(即使父函数已经override.).
 ## contract
 - 包含: 构造函数， 状态变量，函数
 - visibility quantifiers: external, internal, public, private.
@@ -358,3 +376,10 @@ const waves = await wavePortalContract.getAllWaves();
 
 interface IERC721Receiver: 目标合约必须实现IERC721Receiver接口才能接收ERC721代币.不然会revert.
 
+# development flow.
+
+## hardhat
+主要组件是Hardhat runner.围绕任务和插件.
+每次都运行一个任务: 例如: npx hardhat comiple 运行compile任务.
+- npx hardhat compile
+- npx hardhat test

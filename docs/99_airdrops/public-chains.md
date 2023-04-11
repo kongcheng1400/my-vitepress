@@ -41,20 +41,6 @@ OP的交互发了一部分，coinbase占队OP之后未来会很有潜力.
 ## Sui
 - 地址选好了，低价IFO.
 - 没必要刷了。
-### Steps
-1. [官网](sui.io)
-2. [sui foundation](https://suifoundation.org/)
-3. [sui forum](https://forums.sui.io/)
-1. 去[官网](https://suiet.app/docs/getting-started)安装钱包
-2. 去[迪斯科](https://discord.gg/zWpzMwGd) testnet-faucet 频道领测试币.
-3. 打开sui钱包, 网络选择testnet 不要再选devnet了。
-3. 打开sui钱包，点app进去， Mint An NFT, 给你一个nft. 再进Sui NFT Mint可以mint一个自己的NFT.
-4. 打开sui钱包，点stake 进去， stake 0.001, 给你一个nft
-4. 点app进去go[beefy](https://gotbeef.app/):可以创建一个bet 游戏。去迪斯科找地址.
-5. 创建和领poap  [suia] (https://suia.io/)
-6. suinames: [suinames](https://sui-names.com/)
-7. [bluemove](https://sui.bluemove.net/) 去买nft.
-8. [movex](https://app.movex.exchange/) dex
 
 
 ## Aptos and the ecosystem
@@ -82,15 +68,7 @@ OP的交互发了一部分，coinbase占队OP之后未来会很有潜力.
 ## layerzero 
 layerzero使用了自己的一条专用的链来做跨链资产及NFT转移.使用layerzero的大项目实在太多，不可胜数。
 牛肉饭. 功能链一般无大毛。顺手做。
-### Projects
 
-|Name	                                           |Project| comments |	status	|action	|Investors|
-| -----                                            |:----- | :----    |  -----     | ----: |----:    |
-|[Aptos bridge](https://theaptosbridge.com/widget) |官方桥  |          |            | 高优先|    |
-|[liquidswap](https://bridge.liquidswap.com/)       |          |        |           |       |       |
-|[NFT bridge](https://app.holograph.xyz/bridge)    |DAPP  |            |  goerli    | 优先|     |
-
-Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId=1&dstChainId=42161&srcTypedAmount=)使用了layerzero:
 
 
 ## scroll.io
@@ -103,16 +81,6 @@ Sushi的[xswap](https://www.sushi.com/xswap?srcToken=ETH&dstToken=ETH&srcChainId
 4. [redstone](https://redstone.finance/) :暂时没啥用，预言机
 5. [orbiter bridge](http://rinkeby.orbiter.finance) from ETH goerli => Scroll L2 testnet
 
-## SEI
-基于cosmos专门为高速交易而设计的L1，号称要做币圈nasdaq.投资方:Multicoin Capital 等基金的投资，参与方包括 Coinbase Ventures、Delphi Digital、Hudson River Trading、GSR、Hypersphere、Flow Traders、Kronos Research 以及 Anchorage、Frax、Yield Guild Games 和 Tangent 
-一般牛肉饭.
-###
-1. 安装chrome keplr钱包:     https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en
-2. https://trade.vortexprotocol.io/ 选择连接钱包来连sei网络.
-3. testnet领水: https://app.seinetwork.io/faucet 6小时一次. staking, governance,
-4. discord 陵水: atlantic-1-faucet: !faucet sei14j6klmkqp8j7xlk2gkkjch4xswrhkezcl639n0  十分钟后: !faucet ust2 sei14j6klmkqp8j7xlk2gkkjch4xswrhkezcl639n0
-5. sei官方傻逼游戏元宇宙: https://play.seiverse.online/_/global/Pepe17031.github.io/SeiChristmas/map.json 
-6. 这里有个表哥完成 ： https://docs.google.com/forms/d/e/1FAIpQLSco2P67lVl30HiwTQyRvzetdst7aMQM3RYQk3kKfI2iTeZQKQ/viewform   ， 教程看看: https://mirror.xyz/dimamachine.eth/i3ZP-a5dErVKNa022yr8sgt4LPtv5cLtWRQ6Hg8PsUo
 
 
 
@@ -173,7 +141,14 @@ https://spacefi.io/
 - 文档开启测试及部署合约: https://docs.linea.build/category/use-linea
 - 小狐狸内置这个测试网.
 - 领水: https://goerlifaucet.com   跨链.
-- https://swap.goerli.linea.build/#/swap
+- 使用 goerli.hop.exchange
+- swap: https://swap.goerli.linea.build/#/swap
+- fwdx: testnet.fwdx.xyz
+- mint nft: app.nft.ghostchain.io/#/zkevm
+- mes 合约:
+
+## scroll& taiko 优先。
+
 
 ## Polygon ZKEvm
 - polygon团队的ETH L2项目: 看了下排序和聚合器的激励使用:必须在L1合约中锁定一定数量的MATIC代币。意味着不会有新的L2代币.
