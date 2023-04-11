@@ -20,6 +20,7 @@
 - basket = {'apple', 'orange'}
 #### map
 - m = {}, m1 = {'jack': 230, 'mary': 250}
+- m = dict()
 
 # 类型转换.
 隐式与显式
